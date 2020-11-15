@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 2150 2650 3100 900 
+S 2100 2600 3100 900 
 U 5FB6B30F
 F0 "PowerManagement" 50
 F1 "PowerManagement.sch" 50
@@ -26,7 +26,7 @@ F0 "MCU" 50
 F1 "MCU.sch" 50
 $EndSheet
 $Sheet
-S 7650 2450 500  150 
+S 5500 3000 500  150 
 U 5FB03683
 F0 "RTC_EEPROM" 50
 F1 "RTC_EEPROM.sch" 50
