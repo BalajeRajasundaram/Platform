@@ -1,0 +1,111 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x05_Odd_Even J?
+U 1 1 5FAE5465
+P 2150 2150
+F 0 "J?" H 2200 2567 50  0000 C CNN
+F 1 "Aardvark Header SPI" H 2200 2476 50  0000 C CNN
+F 2 "" H 2150 2150 50  0001 C CNN
+F 3 "~" H 2150 2150 50  0001 C CNN
+	1    2150 2150
+	1    0    0    -1  
+$EndComp
+Text GLabel 1950 2250 0    50   BiDi ~ 10
+SCLK
+Text GLabel 1950 2150 0    50   BiDi ~ 10
+MISO
+NoConn ~ 1950 1950
+NoConn ~ 1950 2050
+Text GLabel 1500 2850 0    50   BiDi ~ 10
+SS
+Wire Wire Line
+	1950 2850 1950 2350
+Wire Notes Line
+	1150 3500 1150 1700
+$Comp
+L power:GND #PWR?
+U 1 1 5FAE5F81
+P 3800 2400
+F 0 "#PWR?" H 3800 2150 50  0001 C CNN
+F 1 "GND" H 3805 2227 50  0000 C CNN
+F 2 "" H 3800 2400 50  0001 C CNN
+F 3 "" H 3800 2400 50  0001 C CNN
+	1    3800 2400
+	1    0    0    -1  
+$EndComp
+Text GLabel 2450 2250 2    50   BiDi ~ 10
+MOSI
+Wire Wire Line
+	3800 1950 3800 2350
+Connection ~ 3800 2350
+Wire Wire Line
+	3800 2350 3800 2400
+Wire Wire Line
+	2450 2350 3300 2350
+Wire Wire Line
+	2450 1950 3800 1950
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5FBC99A7
+P 3150 2050
+F 0 "#PWR?" H 3150 1900 50  0001 C CNN
+F 1 "+3.3V" V 3165 2178 50  0000 L CNN
+F 2 "" H 3150 2050 50  0001 C CNN
+F 3 "" H 3150 2050 50  0001 C CNN
+	1    3150 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5FBD0134
+P 3450 2150
+F 0 "#PWR?" H 3450 2000 50  0001 C CNN
+F 1 "+5V" V 3465 2278 50  0000 L CNN
+F 2 "" H 3450 2150 50  0001 C CNN
+F 3 "" H 3450 2150 50  0001 C CNN
+	1    3450 2150
+	0    1    1    0   
+$EndComp
+Wire Notes Line
+	4050 1700 4050 3500
+Wire Notes Line
+	1150 3500 4050 3500
+Wire Notes Line
+	1150 1700 4050 1700
+Wire Wire Line
+	1500 2850 1950 2850
+Wire Wire Line
+	2450 2050 3150 2050
+Wire Wire Line
+	2450 2150 3450 2150
+$Comp
+L power:PWR_FLAG #FLG?
+U 1 1 5FC351CF
+P 3300 2700
+F 0 "#FLG?" H 3300 2775 50  0001 C CNN
+F 1 "PWR_FLAG" H 3300 2873 50  0000 C CNN
+F 2 "" H 3300 2700 50  0001 C CNN
+F 3 "~" H 3300 2700 50  0001 C CNN
+	1    3300 2700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3300 2700 3300 2350
+Connection ~ 3300 2350
+Wire Wire Line
+	3300 2350 3800 2350
+$EndSCHEMATC
