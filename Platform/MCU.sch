@@ -237,7 +237,7 @@ Wire Wire Line
 Text GLabel 3800 5150 0    50   Input ~ 10
 RESET
 $Comp
-L MCU_Microchip_SAMD:ATSAMD21E16B-M U3
+L Platform-rescue:ATSAMD21E16B-M-MCU_Microchip_SAMD U3
 U 1 1 5FAA26F4
 P 5700 3450
 F 0 "U3" H 6344 3496 50  0000 L CNN

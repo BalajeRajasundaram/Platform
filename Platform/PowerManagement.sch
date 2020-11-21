@@ -49,8 +49,6 @@ Wire Wire Line
 	5150 1900 5400 1900
 Wire Wire Line
 	5150 2150 5150 2100
-Wire Wire Line
-	5150 2000 5450 2000
 $Comp
 L power:PWR_FLAG #FLG01
 U 1 1 5FA71D78
@@ -64,19 +62,6 @@ F 3 "~" H 5400 1400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5400 1400 5400 1900
-$Comp
-L power:PWR_FLAG #FLG02
-U 1 1 5FA724DF
-P 5450 2550
-F 0 "#FLG02" H 5450 2625 50  0001 C CNN
-F 1 "PWR_FLAG" H 5450 2723 50  0000 C CNN
-F 2 "" H 5450 2550 50  0001 C CNN
-F 3 "~" H 5450 2550 50  0001 C CNN
-	1    5450 2550
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	5450 2550 5450 2000
 $Comp
 L Regulator_Linear:LM7805_TO220 U1
 U 1 1 5FA72B80
@@ -168,7 +153,7 @@ Wire Wire Line
 	3600 5100 3100 5100
 Connection ~ 3100 5100
 $Comp
-L Regulator_Linear:LM317_TO-220 U2
+L Platform-rescue:LM317_TO-220-Regulator_Linear U2
 U 1 1 5FA76F90
 P 7350 4300
 F 0 "U2" H 7350 4542 50  0000 C CNN
@@ -397,9 +382,6 @@ $EndComp
 Wire Wire Line
 	6000 1900 5750 1900
 Connection ~ 5400 1900
-Wire Wire Line
-	6000 2000 5450 2000
-Connection ~ 5450 2000
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 5FABED39
@@ -529,4 +511,6 @@ Wire Wire Line
 	7350 4600 7350 4950
 Wire Wire Line
 	7350 4950 7850 4950
+Wire Wire Line
+	5150 2000 6000 2000
 $EndSCHEMATC

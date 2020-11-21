@@ -96,7 +96,7 @@ Wire Wire Line
 	1450 2250 1700 2250
 Connection ~ 1700 2250
 $Comp
-L dk_Battery-Holders-Clips-Contacts:BS-7 BAT1
+L Platform-rescue:BS-7-dk_Battery-Holders-Clips-Contacts BAT1
 U 1 1 5FB1565A
 P 3950 2650
 F 0 "BAT1" H 4078 2703 60  0000 L CNN
@@ -167,9 +167,11 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf" H 7050 2350 
 	1    0    0    -1  
 $EndComp
 $Comp
-L 2020-11-15_04-15-54:ECS-.327-6-17X-TR XTAL1
+L Platform-rescue:ECS-.327-6-17X-TR-2020-11-15_04-15-54 XTAL1
 U 1 1 5FB1EC3B
 P 8100 2150
+AR Path="/5FB1EC3B" Ref="XTAL1"  Part="1" 
+AR Path="/5FB03683/5FB1EC3B" Ref="XTAL1"  Part="1" 
 F 0 "XTAL1" H 8900 2537 60  0000 C CNN
 F 1 "ECS-.327-6-17X-TR" H 8900 2431 60  0000 C CNN
 F 2 "XTAL_7X-TR_ECS" H 8900 2390 60  0000 C CNN
@@ -180,7 +182,7 @@ $EndComp
 Wire Wire Line
 	7450 2700 7450 2450
 $Comp
-L dk_Battery-Holders-Clips-Contacts:BS-7 BAT2
+L Platform-rescue:BS-7-dk_Battery-Holders-Clips-Contacts BAT2
 U 1 1 5FB40A5C
 P 7500 1650
 F 0 "BAT2" H 7628 1703 60  0000 L CNN
@@ -496,18 +498,14 @@ SDA
 Wire Wire Line
 	7000 5150 6900 5150
 Connection ~ 6900 5150
-Text GLabel 1550 700  2    50   Input ~ 0
+Text GLabel 2050 700  2    50   Input ~ 0
 SDA
-Text GLabel 1550 900  2    50   Input ~ 0
+Text GLabel 2050 900  2    50   Input ~ 0
 SCL
 Text GLabel 1350 900  0    50   Input ~ 0
 PA23
-Wire Wire Line
-	1350 900  1550 900 
 Text GLabel 1350 700  0    50   Input ~ 0
 PA22
-Wire Wire Line
-	1350 700  1550 700 
 Wire Notes Line
 	550  600  3150 600 
 Wire Notes Line
@@ -634,4 +632,36 @@ Wire Wire Line
 	3600 2550 3600 2700
 Wire Wire Line
 	3600 2700 3450 2700
+$Comp
+L Device:R_Small R30
+U 1 1 5FB9B802
+P 1700 700
+F 0 "R30" V 1650 600 50  0000 C CNN
+F 1 "0E" V 1750 700 50  0000 C CNN
+F 2 "" H 1700 700 50  0001 C CNN
+F 3 "~" H 1700 700 50  0001 C CNN
+	1    1700 700 
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R31
+U 1 1 5FB9BF59
+P 1700 900
+F 0 "R31" V 1650 800 50  0000 C CNN
+F 1 "0E" V 1800 900 50  0000 C CNN
+F 2 "" H 1700 900 50  0001 C CNN
+F 3 "~" H 1700 900 50  0001 C CNN
+	1    1700 900 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1350 900  1600 900 
+Wire Wire Line
+	1800 900  2050 900 
+Wire Wire Line
+	2050 700  1800 700 
+Wire Wire Line
+	1600 700  1350 700 
+Text Notes 950  1200 0    50   ~ 0
+added 0ohm resistors for easy rework.
 $EndSCHEMATC
