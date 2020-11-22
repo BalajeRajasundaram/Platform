@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Display_Character:KCSA02-136 U?
+L Display_Character:KCSA02-136 U9
 U 1 1 5FB55AD1
 P 7650 2000
-F 0 "U?" H 7650 2667 50  0000 C CNN
+F 0 "U9" H 7650 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 7650 2576 50  0000 C CNN
 F 2 "Display_7Segment:KCSC02-136" H 7650 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 7150 2475 50  0001 L CNN
@@ -48,10 +48,10 @@ G
 Text GLabel 7350 2400 0    50   Input ~ 0
 DP
 $Comp
-L Display_Character:KCSA02-136 U?
+L Display_Character:KCSA02-136 U3
 U 1 1 5FB5CA24
 P 1200 2000
-F 0 "U?" H 1200 2667 50  0000 C CNN
+F 0 "U3" H 1200 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 1200 2576 50  0000 C CNN
 F 2 "Display_7Segment:KCSC02-136" H 1200 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 700 2475 50  0001 L CNN
@@ -82,10 +82,10 @@ G
 Text GLabel 900  2400 0    50   Input ~ 0
 DP
 $Comp
-L Display_Character:KCSA02-136 U?
+L Display_Character:KCSA02-136 U4
 U 1 1 5FB5E544
 P 2450 2000
-F 0 "U?" H 2450 2667 50  0000 C CNN
+F 0 "U4" H 2450 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 2450 2576 50  0000 C CNN
 F 2 "Display_7Segment:KCSC02-136" H 2450 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 1950 2475 50  0001 L CNN
@@ -116,10 +116,10 @@ G
 Text GLabel 2150 2400 0    50   Input ~ 0
 DP
 $Comp
-L Display_Character:KCSA02-136 U?
+L Display_Character:KCSA02-136 U5
 U 1 1 5FB5F30B
 P 3550 2000
-F 0 "U?" H 3550 2667 50  0000 C CNN
+F 0 "U5" H 3550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 3550 2576 50  0000 C CNN
 F 2 "Display_7Segment:KCSC02-136" H 3550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 3050 2475 50  0001 L CNN
@@ -150,10 +150,10 @@ G
 Text GLabel 3250 2400 0    50   Input ~ 0
 DP
 $Comp
-L Display_Character:KCSA02-136 U?
+L Display_Character:KCSA02-136 U6
 U 1 1 5FB6054A
 P 4550 2000
-F 0 "U?" H 4550 2667 50  0000 C CNN
+F 0 "U6" H 4550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 4550 2576 50  0000 C CNN
 F 2 "Display_7Segment:KCSC02-136" H 4550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 4050 2475 50  0001 L CNN
@@ -184,10 +184,10 @@ G
 Text GLabel 4250 2400 0    50   Input ~ 0
 DP
 $Comp
-L Display_Character:KCSA02-136 U?
+L Display_Character:KCSA02-136 U7
 U 1 1 5FB633C5
 P 5550 2000
-F 0 "U?" H 5550 2667 50  0000 C CNN
+F 0 "U7" H 5550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 5550 2576 50  0000 C CNN
 F 2 "Display_7Segment:KCSC02-136" H 5550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 5050 2475 50  0001 L CNN
@@ -218,10 +218,10 @@ G
 Text GLabel 5250 2400 0    50   Input ~ 0
 DP
 $Comp
-L Display_Character:KCSA02-136 U?
+L Display_Character:KCSA02-136 U8
 U 1 1 5FB65C47
 P 6550 2000
-F 0 "U?" H 6550 2667 50  0000 C CNN
+F 0 "U8" H 6550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 6550 2576 50  0000 C CNN
 F 2 "Display_7Segment:KCSC02-136" H 6550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 6050 2475 50  0001 L CNN
@@ -270,10 +270,10 @@ G
 Text GLabel 4600 5500 0    50   Input ~ 0
 DP
 $Comp
-L Device:LED D?
+L Device:LED D2
 U 1 1 5FAF58A5
 P 4750 4800
-F 0 "D?" H 4743 5017 50  0000 C CNN
+F 0 "D2" H 4743 5017 50  0000 C CNN
 F 1 "LED" H 4743 4926 50  0000 C CNN
 F 2 "" H 4750 4800 50  0001 C CNN
 F 3 "~" H 4750 4800 50  0001 C CNN
@@ -281,10 +281,10 @@ F 3 "~" H 4750 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D5
 U 1 1 5FAF841D
 P 5850 4350
-F 0 "D?" H 5843 4567 50  0000 C CNN
+F 0 "D5" H 5843 4567 50  0000 C CNN
 F 1 "LED" H 5843 4476 50  0000 C CNN
 F 2 "" H 5850 4350 50  0001 C CNN
 F 3 "~" H 5850 4350 50  0001 C CNN
@@ -292,10 +292,10 @@ F 3 "~" H 5850 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D1
 U 1 1 5FAFB32B
 P 4750 4450
-F 0 "D?" H 4743 4667 50  0000 C CNN
+F 0 "D1" H 4743 4667 50  0000 C CNN
 F 1 "LED" H 4743 4576 50  0000 C CNN
 F 2 "" H 4750 4450 50  0001 C CNN
 F 3 "~" H 4750 4450 50  0001 C CNN
@@ -303,10 +303,10 @@ F 3 "~" H 4750 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D3
 U 1 1 5FAFBFC1
 P 4750 5150
-F 0 "D?" H 4743 5367 50  0000 C CNN
+F 0 "D3" H 4743 5367 50  0000 C CNN
 F 1 "LED" H 4743 5276 50  0000 C CNN
 F 2 "" H 4750 5150 50  0001 C CNN
 F 3 "~" H 4750 5150 50  0001 C CNN
@@ -314,10 +314,10 @@ F 3 "~" H 4750 5150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D4
 U 1 1 5FAFC42C
 P 4750 5500
-F 0 "D?" H 4743 5717 50  0000 C CNN
+F 0 "D4" H 4743 5717 50  0000 C CNN
 F 1 "LED" H 4743 5626 50  0000 C CNN
 F 2 "" H 4750 5500 50  0001 C CNN
 F 3 "~" H 4750 5500 50  0001 C CNN
@@ -325,10 +325,10 @@ F 3 "~" H 4750 5500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D6
 U 1 1 5FAFC938
 P 5850 4750
-F 0 "D?" H 5843 4967 50  0000 C CNN
+F 0 "D6" H 5843 4967 50  0000 C CNN
 F 1 "LED" H 5843 4876 50  0000 C CNN
 F 2 "" H 5850 4750 50  0001 C CNN
 F 3 "~" H 5850 4750 50  0001 C CNN
@@ -336,10 +336,10 @@ F 3 "~" H 5850 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D7
 U 1 1 5FAFCD00
 P 5850 5100
-F 0 "D?" H 5843 5317 50  0000 C CNN
+F 0 "D7" H 5843 5317 50  0000 C CNN
 F 1 "LED" H 5843 5226 50  0000 C CNN
 F 2 "" H 5850 5100 50  0001 C CNN
 F 3 "~" H 5850 5100 50  0001 C CNN
@@ -347,10 +347,10 @@ F 3 "~" H 5850 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D?
+L Device:LED D8
 U 1 1 5FAFD0BD
 P 5850 5500
-F 0 "D?" H 5843 5717 50  0000 C CNN
+F 0 "D8" H 5843 5717 50  0000 C CNN
 F 1 "LED" H 5843 5626 50  0000 C CNN
 F 2 "" H 5850 5500 50  0001 C CNN
 F 3 "~" H 5850 5500 50  0001 C CNN
