@@ -1092,10 +1092,10 @@ Wire Wire Line
 Wire Wire Line
 	2950 7350 3100 7350
 $Comp
-L Connector_Generic:Conn_02x05_Odd_Even J?
+L Connector_Generic:Conn_02x05_Odd_Even J5
 U 1 1 5FBB860D
 P 8100 6150
-F 0 "J?" H 8150 6567 50  0000 C CNN
+F 0 "J5" H 8150 6567 50  0000 C CNN
 F 1 "GPIO Drive" H 8150 6476 50  0000 C CNB
 F 2 "" H 8100 6150 50  0001 C CNN
 F 3 "~" H 8100 6150 50  0001 C CNN
