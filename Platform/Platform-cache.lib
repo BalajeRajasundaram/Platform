@@ -282,9 +282,9 @@ $FPLIST
  D*DO?41*
 $ENDFPLIST
 DRAW
-P 2 0 1 8 -50 50 -50 -50 N
+P 2 0 1 10 -50 50 -50 -50 N
 P 2 0 1 0 50 0 -50 0 N
-P 4 0 1 8 50 50 50 -50 -50 0 50 50 N
+P 4 0 1 10 50 50 50 -50 -50 0 50 50 N
 X K 1 -150 0 100 R 50 50 1 1 P
 X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
@@ -328,11 +328,11 @@ X VCC 8 0 300 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# Platform-rescue_ATSAMD21E16B-M-MCU_Microchip_SAMD
+# Platform-rescue_ATSAMD21E16B-M-MCU_Microchip_SAMD-Platform-rescue
 #
-DEF Platform-rescue_ATSAMD21E16B-M-MCU_Microchip_SAMD U 0 20 Y Y 1 F N
+DEF Platform-rescue_ATSAMD21E16B-M-MCU_Microchip_SAMD-Platform-rescue U 0 20 Y Y 1 F N
 F0 "U" -550 1850 50 H V C CNN
-F1 "Platform-rescue_ATSAMD21E16B-M-MCU_Microchip_SAMD" 650 1850 50 H V C CNN
+F1 "Platform-rescue_ATSAMD21E16B-M-MCU_Microchip_SAMD-Platform-rescue" 650 1850 50 H V C CNN
 F2 "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm" 1350 -1850 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -376,11 +376,11 @@ X VDDANA 9 300 1900 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# Platform-rescue_BS-7-dk_Battery-Holders-Clips-Contacts
+# Platform-rescue_BS-7-dk_Battery-Holders-Clips-Contacts-Platform-rescue
 #
-DEF Platform-rescue_BS-7-dk_Battery-Holders-Clips-Contacts BAT 0 40 N Y 1 F N
+DEF Platform-rescue_BS-7-dk_Battery-Holders-Clips-Contacts-Platform-rescue BAT 0 40 N Y 1 F N
 F0 "BAT" -50 150 60 H V R CNN
-F1 "Platform-rescue_BS-7-dk_Battery-Holders-Clips-Contacts" -50 -150 60 H V R CNN
+F1 "Platform-rescue_BS-7-dk_Battery-Holders-Clips-Contacts-Platform-rescue" -50 -150 60 H V R CNN
 F2 "digikey-footprints:Battery_Holder_Coin_2032_BS-7" 200 200 60 H I L CNN
 F3 "http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf" 200 300 60 V I L CNN
 F4 "BS-7-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -406,11 +406,11 @@ X ~ Pos 0 200 100 D 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# Platform-rescue_LM317_TO-220-Regulator_Linear
+# Platform-rescue_LM317_TO-220-Regulator_Linear-Platform-rescue
 #
-DEF Platform-rescue_LM317_TO-220-Regulator_Linear U 0 10 Y Y 1 F N
+DEF Platform-rescue_LM317_TO-220-Regulator_Linear-Platform-rescue U 0 10 Y Y 1 F N
 F0 "U" -150 125 50 H V C CNN
-F1 "Platform-rescue_LM317_TO-220-Regulator_Linear" 0 125 50 H V L CNN
+F1 "Platform-rescue_LM317_TO-220-Regulator_Linear-Platform-rescue" 0 125 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-220-3_Vertical" 0 250 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -431,7 +431,7 @@ F0 "U" -150 125 50 H V C CNN
 F1 "Regulator_Linear_LM7805_TO220" 0 125 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-220-3_Vertical" 0 225 50 H I C CIN
 F3 "" 0 -50 50 H I C CNN
-ALIAS LM7806_TO220 LM7808_TO220 LM7809_TO220 LM7810_TO220 LM7812_TO220 LM7815_TO220 LM7818_TO220 LM7824_TO220 LM78M05_TO220 SPX2920U-3.3_TO220 SPX2920U-5.0_TO220 LF15_TO220 LF18_TO220 LF25_TO220 LF33_TO220 LF50_TO220 LF60_TO220 LF80_TO220 LF85_TO220 LF120_TO220 LF47_TO220 LF90_TO220 LM341T-05_TO220 LM341T-12_TO220 LM341T-15_TO220 LM2937xT
+ALIAS LM7806_TO220 LM7808_TO220 LM7809_TO220 LM7810_TO220 LM7812_TO220 LM7815_TO220 LM7818_TO220 LM7824_TO220 LM78M05_TO220 SPX2920U-3.3_TO220 SPX2920U-5.0_TO220 LF15_TO220 LF18_TO220 LF25_TO220 LF33_TO220 LF50_TO220 LF60_TO220 LF80_TO220 LF85_TO220 LF120_TO220 LF47_TO220 LF90_TO220 LM341T-05_TO220 LM341T-12_TO220 LM341T-15_TO220 LM2937xT LM2931-3.3_TO220 LM2931-5.0_TO220
 $FPLIST
  TO?220*
 $ENDFPLIST
