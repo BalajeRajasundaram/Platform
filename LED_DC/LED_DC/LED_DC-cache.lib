@@ -105,9 +105,9 @@ $FPLIST
  LED_THT:*
 $ENDFPLIST
 DRAW
-P 2 0 1 10 -50 -50 -50 50 N
+P 2 0 1 8 -50 -50 -50 50 N
 P 2 0 1 0 -50 0 50 0 N
-P 4 0 1 10 50 -50 50 50 -50 0 50 -50 N
+P 4 0 1 8 50 -50 50 50 -50 0 50 -50 N
 P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
 P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
 X K 1 -150 0 100 R 50 50 1 1 P
@@ -204,6 +204,46 @@ X F 9 -300 -200 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single
+#
+DEF LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q 0 0 Y Y 1 F N
+F0 "Q" -106 143 60 H V R CNN
+F1 "LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single" 136 0 60 V V C CNN
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" 200 300 60 H I L CNN
+F4 "DMG2305UX-13DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "DMG2305UX-13" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
+F8 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/diodes-incorporated/DMG2305UX-13/DMG2305UX-13DICT-ND/4251589" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MOSFET P-CH 20V 4.2A SOT23" 200 1000 60 H I L CNN "Description"
+F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C -50 0 130 0 1 0 f
+C 0 -75 5 0 1 0 N
+C 0 -55 5 0 1 0 N
+C 0 75 5 0 1 0 N
+P 2 0 1 0 0 -55 -100 -55 N
+P 3 0 1 0 -200 -100 -120 -100 -120 55 N
+P 3 0 1 0 0 -100 0 0 -100 0 N
+P 3 0 1 0 0 100 0 55 -100 55 N
+P 5 0 1 0 -5 -75 40 -75 40 55 40 75 -5 75 N
+P 2 1 1 0 -100 -55 -100 -75 N
+P 2 1 1 0 -100 -55 -100 -35 N
+P 2 1 1 0 -100 0 -100 -20 N
+P 2 1 1 0 -100 0 -100 20 N
+P 2 1 1 0 -100 75 -100 35 N
+P 2 1 1 0 60 -10 20 -10 N
+P 4 1 1 0 -15 0 -45 20 -45 -20 -15 0 F
+P 4 1 1 0 40 -10 60 20 20 20 40 -10 F
+X G 1 -300 -100 100 R 50 50 1 1 B
+X S 2 0 -200 100 U 50 50 1 1 B
+X D 3 0 200 100 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
 # Transistor_Array_ULN2803A
 #
 DEF Transistor_Array_ULN2803A U 0 20 Y Y 1 F N
@@ -247,46 +287,6 @@ X I6 6 -400 -300 100 R 50 50 1 1 I
 X I7 7 -400 -400 100 R 50 50 1 1 I
 X I8 8 -400 -500 100 R 50 50 1 1 I
 X GND 9 0 -700 100 U 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
-# dk_Transistors-FETs-MOSFETs-Single_DMG2305UX-13
-#
-DEF dk_Transistors-FETs-MOSFETs-Single_DMG2305UX-13 Q 0 0 Y Y 1 F N
-F0 "Q" -106 143 60 H V R CNN
-F1 "dk_Transistors-FETs-MOSFETs-Single_DMG2305UX-13" 136 0 60 V V C CNN
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L CNN
-F3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" 200 300 60 H I L CNN
-F4 "DMG2305UX-13DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "DMG2305UX-13" 200 500 60 H I L CNN "MPN"
-F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
-F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/diodes-incorporated/DMG2305UX-13/DMG2305UX-13DICT-ND/4251589" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "MOSFET P-CH 20V 4.2A SOT23" 200 1000 60 H I L CNN "Description"
-F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-C -50 0 130 0 1 0 f
-C 0 -75 5 0 1 0 N
-C 0 -55 5 0 1 0 N
-C 0 75 5 0 1 0 N
-P 2 0 1 0 0 -55 -100 -55 N
-P 3 0 1 0 -200 -100 -120 -100 -120 55 N
-P 3 0 1 0 0 -100 0 0 -100 0 N
-P 3 0 1 0 0 100 0 55 -100 55 N
-P 5 0 1 0 -5 -75 40 -75 40 55 40 75 -5 75 N
-P 2 1 1 0 -100 -55 -100 -75 N
-P 2 1 1 0 -100 -55 -100 -35 N
-P 2 1 1 0 -100 0 -100 -20 N
-P 2 1 1 0 -100 0 -100 20 N
-P 2 1 1 0 -100 75 -100 35 N
-P 2 1 1 0 60 -10 20 -10 N
-P 4 1 1 0 -15 0 -45 20 -45 -20 -15 0 F
-P 4 1 1 0 40 -10 60 20 20 20 40 -10 F
-X G 1 -300 -100 100 R 50 50 1 1 B
-X S 2 0 -200 100 U 50 50 1 1 B
-X D 3 0 200 100 D 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
@@ -342,9 +342,8 @@ F1 "power_VDD" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
-P 2 0 1 0 -30 50 0 100 N
-P 2 0 1 0 0 0 0 100 N
-P 2 0 1 0 0 100 30 50 N
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
 X VDD 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
