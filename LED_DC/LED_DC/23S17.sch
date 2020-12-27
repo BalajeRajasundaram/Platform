@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 4
+Sheet 3 5
 Title ""
 Date ""
 Rev ""
@@ -13,28 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L power:VDD #PWR08
-U 1 1 5FC397FF
-P 1200 1100
-F 0 "#PWR08" H 1200 950 50  0001 C CNN
-F 1 "VDD" H 1215 1273 50  0000 C CNN
-F 2 "" H 1200 1100 50  0001 C CNN
-F 3 "" H 1200 1100 50  0001 C CNN
-	1    1200 1100
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+3.3V #PWR09
-U 1 1 5FC3A7A0
-P 1200 1100
-F 0 "#PWR09" H 1200 950 50  0001 C CNN
-F 1 "+3.3V" H 1215 1273 50  0000 C CNN
-F 2 "" H 1200 1100 50  0001 C CNN
-F 3 "" H 1200 1100 50  0001 C CNN
-	1    1200 1100
-	-1   0    0    1   
-$EndComp
 Text GLabel 2400 5850 2    50   Input ~ 0
 D_C_1
 Text GLabel 2400 5950 2    50   Input ~ 0
@@ -64,191 +42,64 @@ F 3 "http://www.ti.com/lit/ds/symlink/uln2803a.pdf" H 4400 5200 50  0001 C CNN
 	1    4300 5400
 	1    0    0    -1  
 $EndComp
-Text GLabel 5950 7200 2    50   Input ~ 0
+Text GLabel 5400 5900 2    50   Input ~ 0
 DP
-Text GLabel 5950 6900 2    50   Input ~ 0
+Text GLabel 5400 5800 2    50   Input ~ 0
 G
-Text GLabel 5950 6650 2    50   Input ~ 0
+Text GLabel 5400 5700 2    50   Input ~ 0
 F
-Text GLabel 5900 6300 2    50   Input ~ 0
+Text GLabel 5400 5600 2    50   Input ~ 0
 E
-Text GLabel 5900 6000 2    50   Input ~ 0
+Text GLabel 5400 5500 2    50   Input ~ 0
 D
-Text GLabel 5900 5700 2    50   Input ~ 0
+Text GLabel 5400 5400 2    50   Input ~ 0
 C
-Text GLabel 5900 5450 2    50   Input ~ 0
+Text GLabel 5400 5300 2    50   Input ~ 0
 B
-Text GLabel 5900 5200 2    50   Input ~ 0
+Text GLabel 5400 5200 2    50   Input ~ 0
 A
 Text GLabel 3900 5200 0    50   Input ~ 0
-I_A
+D0
 Text GLabel 3900 5300 0    50   Input ~ 0
-I_B
+D1
 Text GLabel 3900 5400 0    50   Input ~ 0
-I_C
+D2
 Text GLabel 3900 5500 0    50   Input ~ 0
-I_D
+D3
 Text GLabel 3900 5600 0    50   Input ~ 0
-I_E
+D4
 Text GLabel 3900 5700 0    50   Input ~ 0
-I_F
+D5
 Text GLabel 3900 5800 0    50   Input ~ 0
-I_G
+D6
 Text GLabel 3900 5900 0    50   Input ~ 0
-I_DP
+D7
 $Comp
 L power:GND #PWR012
 U 1 1 5FBA4AE0
-P 4300 6100
-F 0 "#PWR012" H 4300 5850 50  0001 C CNN
-F 1 "GND" H 4305 5927 50  0000 C CNN
-F 2 "" H 4300 6100 50  0001 C CNN
-F 3 "" H 4300 6100 50  0001 C CNN
-	1    4300 6100
+P 4300 6200
+F 0 "#PWR012" H 4300 5950 50  0001 C CNN
+F 1 "GND" H 4305 6027 50  0000 C CNN
+F 2 "" H 4300 6200 50  0001 C CNN
+F 3 "" H 4300 6200 50  0001 C CNN
+	1    4300 6200
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R4
 U 1 1 5FBA5AE3
-P 5500 5200
-F 0 "R4" V 5550 5300 50  0000 L CNN
-F 1 "R" V 5550 5000 50  0000 L CNN
-F 2 "" V 5430 5200 50  0001 C CNN
-F 3 "~" H 5500 5200 50  0001 C CNN
-	1    5500 5200
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R5
-U 1 1 5FBA8E28
-P 5500 5300
-F 0 "R5" H 5570 5346 50  0000 L CNN
-F 1 "R" H 5570 5255 50  0000 L CNN
-F 2 "" V 5430 5300 50  0001 C CNN
-F 3 "~" H 5500 5300 50  0001 C CNN
-	1    5500 5300
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R6
-U 1 1 5FBA9874
-P 5500 5700
-F 0 "R6" H 5570 5746 50  0000 L CNN
-F 1 "R" H 5570 5655 50  0000 L CNN
-F 2 "" V 5430 5700 50  0001 C CNN
-F 3 "~" H 5500 5700 50  0001 C CNN
-	1    5500 5700
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R7
-U 1 1 5FBA9AB2
-P 5500 6000
-F 0 "R7" H 5570 6046 50  0000 L CNN
-F 1 "R" H 5570 5955 50  0000 L CNN
-F 2 "" V 5430 6000 50  0001 C CNN
-F 3 "~" H 5500 6000 50  0001 C CNN
-	1    5500 6000
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R8
-U 1 1 5FBA9D00
-P 5500 6300
-F 0 "R8" H 5570 6346 50  0000 L CNN
-F 1 "R" H 5570 6255 50  0000 L CNN
-F 2 "" V 5430 6300 50  0001 C CNN
-F 3 "~" H 5500 6300 50  0001 C CNN
-	1    5500 6300
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R9
-U 1 1 5FBA9EA1
-P 5550 6650
-F 0 "R9" H 5620 6696 50  0000 L CNN
-F 1 "R" H 5620 6605 50  0000 L CNN
-F 2 "" V 5480 6650 50  0001 C CNN
-F 3 "~" H 5550 6650 50  0001 C CNN
-	1    5550 6650
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R10
-U 1 1 5FBAA067
-P 5550 6900
-F 0 "R10" H 5620 6946 50  0000 L CNN
-F 1 "R" H 5620 6855 50  0000 L CNN
-F 2 "" V 5480 6900 50  0001 C CNN
-F 3 "~" H 5550 6900 50  0001 C CNN
-	1    5550 6900
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R11
-U 1 1 5FBAA1DE
-P 5550 7200
-F 0 "R11" H 5620 7246 50  0000 L CNN
-F 1 "R" H 5620 7155 50  0000 L CNN
-F 2 "" V 5480 7200 50  0001 C CNN
-F 3 "~" H 5550 7200 50  0001 C CNN
-	1    5550 7200
+P 5050 5200
+F 0 "R4" V 5100 5300 50  0000 L CNN
+F 1 "R" V 5100 5000 50  0000 L CNN
+F 2 "" V 4980 5200 50  0001 C CNN
+F 3 "~" H 5050 5200 50  0001 C CNN
+	1    5050 5200
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	5650 5200 5900 5200
+	5200 5200 5400 5200
 Wire Wire Line
-	5650 5300 5900 5450
-Wire Wire Line
-	5650 5700 5900 5700
-Wire Wire Line
-	5650 6000 5900 6000
-Wire Wire Line
-	5650 6300 5900 6300
-Wire Wire Line
-	5700 6650 5950 6650
-Wire Wire Line
-	5700 6900 5950 6900
-Wire Wire Line
-	5700 7200 5950 7200
-Wire Wire Line
-	5350 5200 4700 5200
-Wire Wire Line
-	5350 5700 5200 5700
-Wire Wire Line
-	5200 5700 5200 5400
-Wire Wire Line
-	5200 5400 4700 5400
-Wire Wire Line
-	5350 6000 5150 6000
-Wire Wire Line
-	5150 6000 5150 5500
-Wire Wire Line
-	5150 5500 4700 5500
-Wire Wire Line
-	5350 6300 5100 6300
-Wire Wire Line
-	5100 6300 5100 5600
-Wire Wire Line
-	5100 5600 4700 5600
-Wire Wire Line
-	5400 6650 5050 6650
-Wire Wire Line
-	5050 6650 5050 5700
-Wire Wire Line
-	5050 5700 4700 5700
-Wire Wire Line
-	5400 6900 5000 6900
-Wire Wire Line
-	5000 6900 5000 5800
-Wire Wire Line
-	5000 5800 4700 5800
-Wire Wire Line
-	5400 7200 4950 7200
-Wire Wire Line
-	4950 7200 4950 5900
-Wire Wire Line
-	4950 5900 4700 5900
+	4900 5200 4700 5200
 $Comp
 L 74xx_IEEE:74HC238 U1
 U 1 1 5FBCB8B1
@@ -274,27 +125,14 @@ $EndComp
 $Comp
 L power:GND #PWR011
 U 1 1 5FBCD767
-P 1850 6650
-F 0 "#PWR011" H 1850 6400 50  0001 C CNN
-F 1 "GND" H 1855 6477 50  0000 C CNN
-F 2 "" H 1850 6650 50  0001 C CNN
-F 3 "" H 1850 6650 50  0001 C CNN
-	1    1850 6650
+P 1850 6750
+F 0 "#PWR011" H 1850 6500 50  0001 C CNN
+F 1 "GND" H 1855 6577 50  0000 C CNN
+F 2 "" H 1850 6750 50  0001 C CNN
+F 3 "" H 1850 6750 50  0001 C CNN
+	1    1850 6750
 	1    0    0    -1  
 $EndComp
-$Comp
-L power:+3.3V #PWR010
-U 1 1 5FBCDAC1
-P 1850 5200
-F 0 "#PWR010" H 1850 5050 50  0001 C CNN
-F 1 "+3.3V" H 1865 5373 50  0000 C CNN
-F 2 "" H 1850 5200 50  0001 C CNN
-F 3 "" H 1850 5200 50  0001 C CNN
-	1    1850 5200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1850 5200 1850 5350
 Wire Wire Line
 	850  5950 850  5850
 Wire Wire Line
@@ -312,11 +150,11 @@ Connection ~ 1850 5350
 Wire Wire Line
 	1850 5350 1850 5750
 Text GLabel 1300 6400 0    50   Input ~ 0
-I1
+C1
 Text GLabel 1300 6500 0    50   Input ~ 0
-I2
+C2
 Text GLabel 1300 6600 0    50   Input ~ 0
-I3
+C3
 Wire Notes Line
 	3000 4800 3000 7200
 Wire Notes Line
@@ -359,7 +197,6 @@ Wire Notes Line
 	7250 6350 7250 3550
 Wire Notes Line
 	7250 3550 10950 3550
-NoConn ~ 4700 5100
 Text Notes 3150 7400 0    50   ~ 0
 COMM is generally used during driving Relays, for LEDs not needed
 $Comp
@@ -405,12 +242,10 @@ Wire Notes Line
 	5700 4400 5700 800 
 Wire Notes Line
 	5700 800  1500 800 
-Text Notes 3350 2600 0    50   ~ 0
+Text Notes 3550 2750 0    50   ~ 0
 Future Support For LCD Display.
 Wire Wire Line
 	2850 3500 2850 3550
-Wire Wire Line
-	4700 5300 5350 5300
 $Comp
 L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q1
 U 1 1 5FAF9A47
@@ -797,4 +632,237 @@ Wire Wire Line
 	2450 3200 2350 3200
 Wire Wire Line
 	2350 3300 2450 3300
+$Comp
+L power:+5V #PWR?
+U 1 1 5FE8BCF7
+P 1850 5300
+F 0 "#PWR?" H 1850 5150 50  0001 C CNN
+F 1 "+5V" H 1865 5473 50  0000 C CNN
+F 2 "" H 1850 5300 50  0001 C CNN
+F 3 "" H 1850 5300 50  0001 C CNN
+	1    1850 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 5300 1850 5350
+Wire Wire Line
+	4300 6100 4300 6200
+Wire Wire Line
+	1850 6750 1850 6650
+$Comp
+L Device:R R?
+U 1 1 5FE97B3D
+P 5050 5300
+F 0 "R?" V 5100 5400 50  0000 L CNN
+F 1 "R" V 5100 5100 50  0000 L CNN
+F 2 "" V 4980 5300 50  0001 C CNN
+F 3 "~" H 5050 5300 50  0001 C CNN
+	1    5050 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FE98002
+P 5050 5400
+F 0 "R?" V 5100 5500 50  0000 L CNN
+F 1 "R" V 5100 5200 50  0000 L CNN
+F 2 "" V 4980 5400 50  0001 C CNN
+F 3 "~" H 5050 5400 50  0001 C CNN
+	1    5050 5400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FE98291
+P 5050 5500
+F 0 "R?" V 5100 5600 50  0000 L CNN
+F 1 "R" V 5100 5300 50  0000 L CNN
+F 2 "" V 4980 5500 50  0001 C CNN
+F 3 "~" H 5050 5500 50  0001 C CNN
+	1    5050 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FE9840B
+P 5050 5600
+F 0 "R?" V 5100 5700 50  0000 L CNN
+F 1 "R" V 5100 5400 50  0000 L CNN
+F 2 "" V 4980 5600 50  0001 C CNN
+F 3 "~" H 5050 5600 50  0001 C CNN
+	1    5050 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FE98626
+P 5050 5700
+F 0 "R?" V 5100 5800 50  0000 L CNN
+F 1 "R" V 5100 5500 50  0000 L CNN
+F 2 "" V 4980 5700 50  0001 C CNN
+F 3 "~" H 5050 5700 50  0001 C CNN
+	1    5050 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FE987A5
+P 5050 5800
+F 0 "R?" V 5100 5900 50  0000 L CNN
+F 1 "R" V 5100 5600 50  0000 L CNN
+F 2 "" V 4980 5800 50  0001 C CNN
+F 3 "~" H 5050 5800 50  0001 C CNN
+	1    5050 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FE98A0F
+P 5050 5900
+F 0 "R?" V 5100 6000 50  0000 L CNN
+F 1 "R" V 5100 5700 50  0000 L CNN
+F 2 "" V 4980 5900 50  0001 C CNN
+F 3 "~" H 5050 5900 50  0001 C CNN
+	1    5050 5900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 5300 4900 5300
+Wire Wire Line
+	4900 5400 4700 5400
+Wire Wire Line
+	4700 5500 4900 5500
+Wire Wire Line
+	4900 5600 4700 5600
+Wire Wire Line
+	4700 5700 4900 5700
+Wire Wire Line
+	4900 5800 4700 5800
+Wire Wire Line
+	4700 5900 4900 5900
+Wire Wire Line
+	5200 5900 5400 5900
+Wire Wire Line
+	5400 5800 5200 5800
+Wire Wire Line
+	5200 5700 5400 5700
+Wire Wire Line
+	5400 5600 5200 5600
+Wire Wire Line
+	5200 5500 5400 5500
+Wire Wire Line
+	5400 5400 5200 5400
+Wire Wire Line
+	5200 5300 5400 5300
+$Comp
+L Connector:TestPoint TP?
+U 1 1 5FEA91A7
+P 4900 5100
+F 0 "TP?" V 4854 5288 50  0000 L CNN
+F 1 "TestPoint" V 4945 5288 50  0001 L CNN
+F 2 "" H 5100 5100 50  0001 C CNN
+F 3 "~" H 5100 5100 50  0001 C CNN
+	1    4900 5100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4900 5100 4700 5100
+$Comp
+L power:GND #PWR?
+U 1 1 5FEAB2F7
+P 3350 2900
+F 0 "#PWR?" H 3350 2650 50  0001 C CNN
+F 1 "GND" H 3355 2727 50  0000 C CNN
+F 2 "" H 3350 2900 50  0001 C CNN
+F 3 "" H 3350 2900 50  0001 C CNN
+	1    3350 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5FEAB829
+P 3350 2400
+F 0 "#PWR?" H 3350 2250 50  0001 C CNN
+F 1 "+5V" H 3365 2573 50  0000 C CNN
+F 2 "" H 3350 2400 50  0001 C CNN
+F 3 "" H 3350 2400 50  0001 C CNN
+	1    3350 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 5FEAC3CE
+P 3350 2550
+F 0 "R?" H 3409 2596 50  0000 L CNN
+F 1 "R_Small" H 3409 2505 50  0000 L CNN
+F 2 "" H 3350 2550 50  0001 C CNN
+F 3 "~" H 3350 2550 50  0001 C CNN
+	1    3350 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3350 2650 3350 2700
+Wire Wire Line
+	3350 2700 3250 2700
+Wire Wire Line
+	3250 2800 3350 2800
+Wire Wire Line
+	3350 2800 3350 2900
+Wire Wire Line
+	3350 2450 3350 2400
+$Comp
+L Device:R_Small R?
+U 1 1 5FEB1440
+P 3600 1950
+F 0 "R?" H 3659 1996 50  0000 L CNN
+F 1 "R_Small" H 3659 1905 50  0000 L CNN
+F 2 "" H 3600 1950 50  0001 C CNN
+F 3 "~" H 3600 1950 50  0001 C CNN
+	1    3600 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 5FEB1C82
+P 3600 2250
+F 0 "R?" H 3659 2296 50  0000 L CNN
+F 1 "R_Small" H 3659 2205 50  0000 L CNN
+F 2 "" H 3600 2250 50  0001 C CNN
+F 3 "~" H 3600 2250 50  0001 C CNN
+	1    3600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5FEB1F5D
+P 3600 2400
+F 0 "#PWR?" H 3600 2150 50  0001 C CNN
+F 1 "GND" H 3605 2227 50  0000 C CNN
+F 2 "" H 3600 2400 50  0001 C CNN
+F 3 "" H 3600 2400 50  0001 C CNN
+	1    3600 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5FEB20FA
+P 3600 1750
+F 0 "#PWR?" H 3600 1600 50  0001 C CNN
+F 1 "+5V" H 3615 1923 50  0000 C CNN
+F 2 "" H 3600 1750 50  0001 C CNN
+F 3 "" H 3600 1750 50  0001 C CNN
+	1    3600 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 1750 3600 1850
+Wire Wire Line
+	3600 2050 3600 2100
+Wire Wire Line
+	3600 2350 3600 2400
+Wire Wire Line
+	3250 2100 3600 2100
+Connection ~ 3600 2100
+Wire Wire Line
+	3600 2100 3600 2150
 $EndSCHEMATC

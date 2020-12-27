@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 1 5
 Title ""
 Date ""
 Rev ""
@@ -30,5 +30,11 @@ S 7750 2350 1450 750
 U 5FB4C3FE
 F0 "SevenSegment" 50
 F1 "SevenSegment.sch" 50
+$EndSheet
+$Sheet
+S 3800 3350 1500 700 
+U 5FEBB696
+F0 "keypad" 50
+F1 "keypad.sch" 50
 $EndSheet
 $EndSCHEMATC

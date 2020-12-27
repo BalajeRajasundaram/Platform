@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 4
+Sheet 2 5
 Title ""
 Date ""
 Rev ""
@@ -129,4 +129,39 @@ Wire Wire Line
 	4100 4600 4000 4600
 Wire Wire Line
 	4000 4700 4100 4700
+$Comp
+L Connector_Generic:Conn_01x04 J?
+U 1 1 5FEC60A3
+P 7400 4550
+F 0 "J?" H 7480 4542 50  0000 L CNN
+F 1 "Conn_01x04" H 7480 4451 50  0000 L CNN
+F 2 "" H 7400 4550 50  0001 C CNN
+F 3 "~" H 7400 4550 50  0001 C CNN
+	1    7400 4550
+	1    0    0    -1  
+$EndComp
+Text GLabel 6950 4450 0    50   Output ~ 0
+KEY_ROW1
+Text GLabel 6950 4550 0    50   Output ~ 0
+KEY_ROW2
+Text GLabel 6950 4650 0    50   Output ~ 0
+KEY_COL1
+Text GLabel 6950 4750 0    50   Output ~ 0
+KEY_COL2
+Wire Wire Line
+	6950 4450 7200 4450
+Wire Wire Line
+	7200 4550 6950 4550
+Wire Wire Line
+	6950 4650 7200 4650
+Wire Wire Line
+	7200 4750 6950 4750
+Wire Notes Line
+	8550 4300 8550 5700
+Wire Notes Line
+	8550 5700 6250 5700
+Wire Notes Line
+	6250 5700 6250 4300
+Wire Notes Line
+	6250 4300 8550 4300
 $EndSCHEMATC
