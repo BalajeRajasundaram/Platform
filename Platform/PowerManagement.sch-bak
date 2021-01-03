@@ -153,7 +153,7 @@ Wire Wire Line
 	3600 5100 3100 5100
 Connection ~ 3100 5100
 $Comp
-L Platform-rescue:LM317_TO-220-Regulator_Linear U2
+L Platform-rescue:LM317_TO-220-Regulator_Linear-Platform-rescue U2
 U 1 1 5FA76F90
 P 7350 4300
 F 0 "U2" H 7350 4542 50  0000 C CNN

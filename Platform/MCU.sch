@@ -1033,8 +1033,6 @@ Wire Notes Line
 	3700 7500 550  7500
 Wire Notes Line
 	550  7500 550  5700
-Text GLabel 3150 4400 0    50   BiDi ~ 10
-PA27
 $Comp
 L Connector_Generic:Conn_01x05 J9
 U 1 1 5FB2E64B

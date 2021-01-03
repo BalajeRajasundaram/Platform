@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 4
+Sheet 2 5
 Title ""
 Date ""
 Rev ""
@@ -86,10 +86,10 @@ Wire Notes Line
 Text GLabel 4000 4500 0    50   Output ~ 0
 C1
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR01
 U 1 1 5FD76D33
 P 1850 4400
-F 0 "#PWR?" H 1850 4250 50  0001 C CNN
+F 0 "#PWR01" H 1850 4250 50  0001 C CNN
 F 1 "+5V" H 1865 4573 50  0000 C CNN
 F 2 "" H 1850 4400 50  0001 C CNN
 F 3 "" H 1850 4400 50  0001 C CNN
@@ -97,10 +97,10 @@ F 3 "" H 1850 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR02
 U 1 1 5FD77C16
 P 2600 4950
-F 0 "#PWR?" H 2600 4700 50  0001 C CNN
+F 0 "#PWR02" H 2600 4700 50  0001 C CNN
 F 1 "GND" H 2605 4777 50  0000 C CNN
 F 2 "" H 2600 4950 50  0001 C CNN
 F 3 "" H 2600 4950 50  0001 C CNN
@@ -129,4 +129,67 @@ Wire Wire Line
 	4100 4600 4000 4600
 Wire Wire Line
 	4000 4700 4100 4700
+$Comp
+L Connector_Generic:Conn_01x04 J1
+U 1 1 5FEC60A3
+P 7400 4550
+F 0 "J1" H 7480 4542 50  0000 L CNN
+F 1 "Conn_01x04" H 7480 4451 50  0000 L CNN
+F 2 "" H 7400 4550 50  0001 C CNN
+F 3 "~" H 7400 4550 50  0001 C CNN
+	1    7400 4550
+	1    0    0    -1  
+$EndComp
+Text GLabel 6950 4450 0    50   Output ~ 0
+KEY_ROW1
+Text GLabel 6950 4550 0    50   Output ~ 0
+KEY_ROW2
+Text GLabel 6950 4650 0    50   Output ~ 0
+KEY_COL1
+Text GLabel 6950 4750 0    50   Output ~ 0
+KEY_COL2
+Wire Wire Line
+	6950 4450 7200 4450
+Wire Wire Line
+	7200 4550 6950 4550
+Wire Wire Line
+	7200 4750 6950 4750
+Wire Notes Line
+	8550 4300 8550 5700
+Wire Notes Line
+	8550 5700 6250 5700
+Wire Notes Line
+	6250 5700 6250 4300
+Wire Notes Line
+	6250 4300 8550 4300
+Wire Wire Line
+	7200 4650 6950 4650
+$Comp
+L power:PWR_FLAG #FLG?
+U 1 1 5FF0A6FB
+P 1750 4450
+F 0 "#FLG?" H 1750 4525 50  0001 C CNN
+F 1 "PWR_FLAG" V 1750 4577 50  0000 L CNN
+F 2 "" H 1750 4450 50  0001 C CNN
+F 3 "~" H 1750 4450 50  0001 C CNN
+	1    1750 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG?
+U 1 1 5FF0AD0F
+P 2700 4850
+F 0 "#FLG?" H 2700 4925 50  0001 C CNN
+F 1 "PWR_FLAG" V 2700 4978 50  0000 L CNN
+F 2 "" H 2700 4850 50  0001 C CNN
+F 3 "~" H 2700 4850 50  0001 C CNN
+	1    2700 4850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2700 4850 2600 4850
+Connection ~ 2600 4850
+Wire Wire Line
+	1750 4450 1850 4450
+Connection ~ 1850 4450
 $EndSCHEMATC

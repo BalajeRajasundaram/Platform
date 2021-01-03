@@ -143,7 +143,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf" H 7050 2350 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Platform-rescue:BS-7-dk_Battery-Holders-Clips-Contacts BAT1
+L Platform-rescue:BS-7-dk_Battery-Holders-Clips-Contacts-Platform-rescue BAT1
 U 1 1 5FB40A5C
 P 7500 1650
 F 0 "BAT1" H 7628 1703 60  0000 L CNN
