@@ -19,7 +19,7 @@ U 1 1 5FB55AD1
 P 7650 2000
 F 0 "U9" H 7650 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 7650 2576 50  0000 C CNN
-F 2 "Display_7Segment:KCSC02-136" H 7650 1400 50  0001 C CNN
+F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 7650 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 7150 2475 50  0001 L CNN
 	1    7650 2000
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5FB5CA24
 P 1200 2000
 F 0 "U3" H 1200 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 1200 2576 50  0000 C CNN
-F 2 "Display_7Segment:KCSC02-136" H 1200 1400 50  0001 C CNN
+F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 1200 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 700 2475 50  0001 L CNN
 	1    1200 2000
 	1    0    0    -1  
@@ -87,7 +87,7 @@ U 1 1 5FB5E544
 P 2450 2000
 F 0 "U4" H 2450 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 2450 2576 50  0000 C CNN
-F 2 "Display_7Segment:KCSC02-136" H 2450 1400 50  0001 C CNN
+F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 2450 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 1950 2475 50  0001 L CNN
 	1    2450 2000
 	1    0    0    -1  
@@ -121,7 +121,7 @@ U 1 1 5FB5F30B
 P 3550 2000
 F 0 "U5" H 3550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 3550 2576 50  0000 C CNN
-F 2 "Display_7Segment:KCSC02-136" H 3550 1400 50  0001 C CNN
+F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 3550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 3050 2475 50  0001 L CNN
 	1    3550 2000
 	1    0    0    -1  
@@ -155,7 +155,7 @@ U 1 1 5FB6054A
 P 4550 2000
 F 0 "U6" H 4550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 4550 2576 50  0000 C CNN
-F 2 "Display_7Segment:KCSC02-136" H 4550 1400 50  0001 C CNN
+F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 4550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 4050 2475 50  0001 L CNN
 	1    4550 2000
 	1    0    0    -1  
@@ -189,7 +189,7 @@ U 1 1 5FB633C5
 P 5550 2000
 F 0 "U7" H 5550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 5550 2576 50  0000 C CNN
-F 2 "Display_7Segment:KCSC02-136" H 5550 1400 50  0001 C CNN
+F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 5550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 5050 2475 50  0001 L CNN
 	1    5550 2000
 	1    0    0    -1  
@@ -223,7 +223,7 @@ U 1 1 5FB65C47
 P 6550 2000
 F 0 "U8" H 6550 2667 50  0000 C CNN
 F 1 "KCSA02-136" H 6550 2576 50  0000 C CNN
-F 2 "Display_7Segment:KCSC02-136" H 6550 1400 50  0001 C CNN
+F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 6550 1400 50  0001 C CNN
 F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 6050 2475 50  0001 L CNN
 	1    6550 2000
 	1    0    0    -1  
