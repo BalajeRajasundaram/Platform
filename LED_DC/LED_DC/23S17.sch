@@ -205,7 +205,7 @@ U 1 1 5FC030D8
 P 2850 2700
 F 0 "DS1" H 3000 3550 50  0000 C CNN
 F 1 "HY1602E" H 3050 3450 50  0000 C CNN
-F 2 "Display:HY1602E" H 2850 1800 50  0001 C CIN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 2850 1800 50  0001 C CIN
 F 3 "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf" H 3050 2800 50  0001 C CNN
 	1    2850 2700
 	1    0    0    -1  
