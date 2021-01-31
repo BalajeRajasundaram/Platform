@@ -200,17 +200,6 @@ Wire Notes Line
 Text Notes 3150 7400 0    50   ~ 0
 COMM is generally used during driving Relays, for LEDs not needed
 $Comp
-L Display_Character:HY1602E DS1
-U 1 1 5FC030D8
-P 2850 2700
-F 0 "DS1" H 3000 3550 50  0000 C CNN
-F 1 "HY1602E" H 3050 3450 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 2850 1800 50  0001 C CIN
-F 3 "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf" H 3050 2800 50  0001 C CNN
-	1    2850 2700
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR05
 U 1 1 5FC0566D
 P 2850 1850
@@ -242,8 +231,6 @@ Wire Notes Line
 	5700 4400 5700 800 
 Wire Notes Line
 	5700 800  1500 800 
-Text Notes 3550 2750 0    50   ~ 0
-Future Support For LCD Display.
 Wire Wire Line
 	2850 3500 2850 3550
 $Comp
@@ -768,101 +755,47 @@ $EndComp
 Wire Wire Line
 	4900 5100 4700 5100
 $Comp
-L power:GND #PWR010
-U 1 1 5FEAB2F7
-P 3350 2900
-F 0 "#PWR010" H 3350 2650 50  0001 C CNN
-F 1 "GND" H 3355 2727 50  0000 C CNN
-F 2 "" H 3350 2900 50  0001 C CNN
-F 3 "" H 3350 2900 50  0001 C CNN
-	1    3350 2900
+L Display_Character:HY1602E DS1
+U 1 1 5FC030D8
+P 2850 2700
+F 0 "DS1" H 3000 3550 50  0000 C CNN
+F 1 "HY1602E" H 3050 3450 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 2850 1800 50  0001 C CIN
+F 3 "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf" H 3050 2800 50  0001 C CNN
+	1    2850 2700
 	1    0    0    -1  
+$EndComp
+Text Notes 3550 2750 0    50   ~ 0
+Future Support For LCD Display.
+NoConn ~ 3250 2100
+NoConn ~ 3250 2700
+NoConn ~ 3250 2800
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 60176418
+P 2650 1900
+F 0 "#FLG0101" H 2650 1975 50  0001 C CNN
+F 1 "PWR_FLAG" V 2650 2027 50  0000 L CNN
+F 2 "" H 2650 1900 50  0001 C CNN
+F 3 "~" H 2650 1900 50  0001 C CNN
+	1    2650 1900
+	0    -1   -1   0   
 $EndComp
 $Comp
-L power:+5V #PWR09
-U 1 1 5FEAB829
-P 3350 2400
-F 0 "#PWR09" H 3350 2250 50  0001 C CNN
-F 1 "+5V" H 3365 2573 50  0000 C CNN
-F 2 "" H 3350 2400 50  0001 C CNN
-F 3 "" H 3350 2400 50  0001 C CNN
-	1    3350 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_Small R1
-U 1 1 5FEAC3CE
-P 3350 2550
-F 0 "R1" H 3409 2596 50  0000 L CNN
-F 1 "R_Small" H 3409 2505 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" H 3350 2550 50  0001 C CNN
-F 3 "~" H 3350 2550 50  0001 C CNN
-	1    3350 2550
-	1    0    0    -1  
+L power:PWR_FLAG #FLG0102
+U 1 1 60176CCD
+P 2600 3550
+F 0 "#FLG0102" H 2600 3625 50  0001 C CNN
+F 1 "PWR_FLAG" V 2600 3677 50  0000 L CNN
+F 2 "" H 2600 3550 50  0001 C CNN
+F 3 "~" H 2600 3550 50  0001 C CNN
+	1    2600 3550
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	3350 2650 3350 2700
+	2600 3550 2850 3550
+Connection ~ 2850 3550
 Wire Wire Line
-	3350 2700 3250 2700
-Wire Wire Line
-	3250 2800 3350 2800
-Wire Wire Line
-	3350 2800 3350 2900
-Wire Wire Line
-	3350 2450 3350 2400
-$Comp
-L Device:R_Small R2
-U 1 1 5FEB1440
-P 3600 1950
-F 0 "R2" H 3659 1996 50  0000 L CNN
-F 1 "R_Small" H 3659 1905 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" H 3600 1950 50  0001 C CNN
-F 3 "~" H 3600 1950 50  0001 C CNN
-	1    3600 1950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_Small R3
-U 1 1 5FEB1C82
-P 3600 2250
-F 0 "R3" H 3659 2296 50  0000 L CNN
-F 1 "R_Small" H 3659 2205 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" H 3600 2250 50  0001 C CNN
-F 3 "~" H 3600 2250 50  0001 C CNN
-	1    3600 2250
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR014
-U 1 1 5FEB1F5D
-P 3600 2400
-F 0 "#PWR014" H 3600 2150 50  0001 C CNN
-F 1 "GND" H 3605 2227 50  0000 C CNN
-F 2 "" H 3600 2400 50  0001 C CNN
-F 3 "" H 3600 2400 50  0001 C CNN
-	1    3600 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR013
-U 1 1 5FEB20FA
-P 3600 1750
-F 0 "#PWR013" H 3600 1600 50  0001 C CNN
-F 1 "+5V" H 3615 1923 50  0000 C CNN
-F 2 "" H 3600 1750 50  0001 C CNN
-F 3 "" H 3600 1750 50  0001 C CNN
-	1    3600 1750
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3600 1750 3600 1850
-Wire Wire Line
-	3600 2050 3600 2100
-Wire Wire Line
-	3600 2350 3600 2400
-Wire Wire Line
-	3250 2100 3600 2100
-Connection ~ 3600 2100
-Wire Wire Line
-	3600 2100 3600 2150
+	2650 1900 2850 1900
+Connection ~ 2850 1900
 $EndSCHEMATC
