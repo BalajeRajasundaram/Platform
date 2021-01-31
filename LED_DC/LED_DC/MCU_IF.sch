@@ -146,7 +146,7 @@ L Connector_Generic:Conn_01x05 J1
 U 1 1 5FEC60A3
 P 7400 4650
 F 0 "J1" H 7480 4642 50  0000 L CNN
-F 1 "Conn_01x04" H 7480 4551 50  0000 L CNN
+F 1 "Keypad" H 7480 4551 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 7400 4650 50  0001 C CNN
 F 3 "~" H 7400 4650 50  0001 C CNN
 	1    7400 4650
@@ -167,4 +167,6 @@ Wire Wire Line
 	7100 4950 7100 4850
 Wire Wire Line
 	7100 4850 7200 4850
+Text Notes 6750 5400 0    50   ~ 0
+Keypad Interface connector.
 $EndSCHEMATC

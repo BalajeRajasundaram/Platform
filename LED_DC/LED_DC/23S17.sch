@@ -766,7 +766,7 @@ F 3 "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf" H 3050 2800 50  0001 
 	1    0    0    -1  
 $EndComp
 Text Notes 3550 2750 0    50   ~ 0
-Future Support For LCD Display.
+Seven Segment/LCD display Interface.
 NoConn ~ 3250 2100
 NoConn ~ 3250 2700
 NoConn ~ 3250 2800

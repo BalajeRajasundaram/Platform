@@ -101,4 +101,14 @@ Wire Wire Line
 Connection ~ 4800 3050
 Wire Wire Line
 	3950 2300 3950 3050
+Wire Notes Line
+	5300 1550 5300 4550
+Wire Notes Line
+	5300 4550 1800 4550
+Wire Notes Line
+	1800 4550 1800 1550
+Wire Notes Line
+	1800 1550 5300 1550
+Text Notes 3500 4200 0    50   ~ 0
+2X2 Keypad.
 $EndSCHEMATC
