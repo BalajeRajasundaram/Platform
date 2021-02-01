@@ -592,4 +592,14 @@ Wire Wire Line
 Connection ~ 2900 4700
 Wire Wire Line
 	2900 4700 2900 4750
+Wire Notes Line
+	4650 4200 4650 5600
+Wire Notes Line
+	4650 5600 1900 5600
+Wire Notes Line
+	1900 5600 1900 4200
+Wire Notes Line
+	1900 4200 4650 4200
+Text Notes 2300 5500 0    50   ~ 0
+Power Supply connector if supply is\ncoming directly from power supply board.
 $EndSCHEMATC
