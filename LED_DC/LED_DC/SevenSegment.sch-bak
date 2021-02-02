@@ -384,4 +384,24 @@ Wire Wire Line
 	4900 4000 6000 4000
 Connection ~ 4900 4450
 Connection ~ 6000 4000
+Wire Notes Line
+	8600 900  8600 3350
+Wire Notes Line
+	8600 3350 550  3350
+Wire Notes Line
+	550  3350 550  900 
+Wire Notes Line
+	550  900  8600 900 
+Text Notes 3700 3100 0    50   ~ 0
+7 segment displays.
+Wire Notes Line
+	7100 3750 7100 6000
+Wire Notes Line
+	7100 6000 4000 6000
+Wire Notes Line
+	4000 3750 7100 3750
+Wire Notes Line
+	4000 3750 4000 6000
+Text Notes 4850 5850 0    50   ~ 0
+General puspose LEDs.\n
 $EndSCHEMATC

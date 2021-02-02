@@ -575,11 +575,11 @@ Text GLabel 9800 5750 3    50   Output ~ 0
 D_8
 Wire Wire Line
 	9800 5750 9800 5650
-Text GLabel 2350 2100 0    50   Input ~ 0
-C1
 Text GLabel 2350 2300 0    50   Input ~ 0
-C2
+C1
 Text GLabel 2350 2400 0    50   Input ~ 0
+C2
+Text GLabel 2350 2500 0    50   Input ~ 0
 C3
 Text GLabel 2350 2600 0    50   Input ~ 0
 D0
@@ -597,12 +597,6 @@ Text GLabel 2350 3200 0    50   Input ~ 0
 D6
 Text GLabel 2350 3300 0    50   Input ~ 0
 D7
-Wire Wire Line
-	2350 2100 2450 2100
-Wire Wire Line
-	2450 2300 2350 2300
-Wire Wire Line
-	2350 2400 2450 2400
 Wire Wire Line
 	2450 2600 2350 2600
 Wire Wire Line
@@ -755,21 +749,18 @@ $EndComp
 Wire Wire Line
 	4900 5100 4700 5100
 $Comp
-L Display_Character:HY1602E DS1
+L Display_Character:RC1602A DS1
 U 1 1 5FC030D8
-P 2850 2700
-F 0 "DS1" H 3000 3550 50  0000 C CNN
-F 1 "HY1602E" H 3050 3450 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 2850 1800 50  0001 C CIN
-F 3 "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf" H 3050 2800 50  0001 C CNN
-	1    2850 2700
+P 2850 2800
+F 0 "DS1" H 3000 3650 50  0000 C CNN
+F 1 "RC1602A" H 3050 3550 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 2850 1900 50  0001 C CIN
+F 3 "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf" H 3050 2900 50  0001 C CNN
+	1    2850 2800
 	1    0    0    -1  
 $EndComp
 Text Notes 3550 2750 0    50   ~ 0
 Seven Segment/LCD display Interface.
-NoConn ~ 3250 2100
-NoConn ~ 3250 2700
-NoConn ~ 3250 2800
 $Comp
 L power:PWR_FLAG #FLG0101
 U 1 1 60176418
@@ -798,4 +789,15 @@ Connection ~ 2850 3550
 Wire Wire Line
 	2650 1900 2850 1900
 Connection ~ 2850 1900
+Wire Wire Line
+	2850 1900 2850 2100
+NoConn ~ 3250 2600
+NoConn ~ 3250 3000
+NoConn ~ 3250 3100
+Wire Wire Line
+	2350 2300 2450 2300
+Wire Wire Line
+	2450 2400 2350 2400
+Wire Wire Line
+	2350 2500 2450 2500
 $EndSCHEMATC
