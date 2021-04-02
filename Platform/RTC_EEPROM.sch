@@ -166,11 +166,6 @@ Wire Wire Line
 	5600 2350 5600 2450
 Wire Wire Line
 	5600 2450 6650 2450
-Text GLabel 5350 2450 0    50   Input ~ 0
-PA27
-Wire Wire Line
-	5350 2450 5600 2450
-Connection ~ 5600 2450
 $Comp
 L Memory_EEPROM:AT24CS32-SSHM U5
 U 1 1 5FB524FB
@@ -455,4 +450,18 @@ Wire Wire Line
 	8450 2350 8450 2600
 Wire Wire Line
 	8150 2350 8450 2350
+$Comp
+L Connector:TestPoint TP?
+U 1 1 60677E6E
+P 5350 2450
+F 0 "TP?" V 5545 2522 50  0000 C CNN
+F 1 "TestPoint" V 5454 2522 50  0000 C CNN
+F 2 "" H 5550 2450 50  0001 C CNN
+F 3 "~" H 5550 2450 50  0001 C CNN
+	1    5350 2450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5350 2450 5600 2450
+Connection ~ 5600 2450
 $EndSCHEMATC
