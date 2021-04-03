@@ -737,237 +737,12 @@ Wire Notes Line
 	4150 5700 4150 7500
 Wire Notes Line
 	550  7500 550  5700
-$Comp
-L Connector_Generic:Conn_01x05 J9
-U 1 1 60173DD1
-P 2400 7000
-F 0 "J9" H 2480 7042 50  0000 L CNN
-F 1 "KeyPad" H 2480 6951 50  0000 L CNN
-F 2 "" H 2400 7000 50  0001 C CNN
-F 3 "~" H 2400 7000 50  0001 C CNN
-	1    2400 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR032
-U 1 1 60174F24
-P 2100 7250
-F 0 "#PWR032" H 2100 7000 50  0001 C CNN
-F 1 "GND" H 2105 7077 50  0000 C CNN
-F 2 "" H 2100 7250 50  0001 C CNN
-F 3 "" H 2100 7250 50  0001 C CNN
-	1    2100 7250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2200 7200 2100 7200
-Wire Wire Line
-	2100 7200 2100 7250
 Wire Wire Line
 	5600 1050 4250 1050
 Wire Wire Line
 	4250 1050 4250 1250
-Text GLabel 2100 6800 0    50   BiDi ~ 10
-PA10
-Text GLabel 2100 6900 0    50   BiDi ~ 10
-PA11
-Text GLabel 2100 7000 0    50   BiDi ~ 10
-PA14
-Text GLabel 2100 7100 0    50   BiDi ~ 10
-PA15
-Wire Wire Line
-	2200 7100 2100 7100
-Wire Wire Line
-	2100 7000 2200 7000
-Wire Wire Line
-	2200 6900 2100 6900
-Wire Wire Line
-	2100 6800 2200 6800
-Wire Notes Line
-	3000 6650 3000 7500
-Wire Notes Line
-	1500 7500 1500 6650
-Wire Notes Line
-	1500 6650 3000 6650
-Text Notes 2250 7450 0    50   ~ 0
-Keypad connector.
-$Comp
-L Display_Character:RC1602A DS1
-U 1 1 6019A893
-P 1750 2350
-F 0 "DS1" H 1750 3231 50  0000 C CNN
-F 1 "RC1602A" H 1750 3140 50  0000 C CNN
-F 2 "Display:HY1602E" H 1750 1450 50  0001 C CIN
-F 3 "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf" H 1950 2450 50  0001 C CNN
-	1    1750 2350
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1800 4550 1650 4550
-Text GLabel 1200 2150 0    50   BiDi ~ 10
-PA00
-Text GLabel 1200 2250 0    50   BiDi ~ 10
-PA01
-Text GLabel 1200 2350 0    50   BiDi ~ 10
-PA02
-Text GLabel 1200 2450 0    50   BiDi ~ 10
-PA03
-Text GLabel 1200 2550 0    50   BiDi ~ 10
-PA04
-Text GLabel 1200 2650 0    50   BiDi ~ 10
-PA05
-Text GLabel 1200 2750 0    50   BiDi ~ 10
-PA06
-Text GLabel 1200 2850 0    50   BiDi ~ 10
-PA07
-Wire Wire Line
-	1200 2150 1350 2150
-Wire Wire Line
-	1350 2250 1200 2250
-Wire Wire Line
-	1200 2350 1350 2350
-Wire Wire Line
-	1350 2450 1200 2450
-Wire Wire Line
-	1200 2550 1350 2550
-Wire Wire Line
-	1350 2650 1200 2650
-Wire Wire Line
-	1200 2750 1350 2750
-Wire Wire Line
-	1350 2850 1200 2850
-$Comp
-L power:+5V #PWR026
-U 1 1 601E129D
-P 1750 1400
-F 0 "#PWR026" H 1750 1250 50  0001 C CNN
-F 1 "+5V" H 1765 1573 50  0000 C CNN
-F 2 "" H 1750 1400 50  0001 C CNN
-F 3 "" H 1750 1400 50  0001 C CNN
-	1    1750 1400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR029
-U 1 1 601E5E6B
-P 1750 3150
-F 0 "#PWR029" H 1750 2900 50  0001 C CNN
-F 1 "GND" H 1755 2977 50  0000 C CNN
-F 2 "" H 1750 3150 50  0001 C CNN
-F 3 "" H 1750 3150 50  0001 C CNN
-	1    1750 3150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1750 3150 1750 3050
-Wire Wire Line
-	1750 1400 1750 1550
-Text GLabel 1200 1850 0    50   BiDi ~ 10
-PA25
-Text GLabel 1200 1950 0    50   BiDi ~ 10
-PA27
-Text GLabel 1200 2050 0    50   BiDi ~ 10
-PA28
-Wire Wire Line
-	1350 2050 1200 2050
-Wire Wire Line
-	1200 1950 1350 1950
-Wire Wire Line
-	1350 1850 1200 1850
-$Comp
-L Device:R_Small R10
-U 1 1 6020D43B
-P 3550 2350
-F 0 "R10" V 3450 2350 50  0000 C CNN
-F 1 "R_Small" V 3650 2350 50  0000 C CNN
-F 2 "" H 3550 2350 50  0001 C CNN
-F 3 "~" H 3550 2350 50  0001 C CNN
-	1    3550 2350
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GND #PWR041
-U 1 1 60207B70
-P 2350 2350
-F 0 "#PWR041" H 2350 2100 50  0001 C CNN
-F 1 "GND" H 2550 2350 50  0000 R CNN
-F 2 "" H 2350 2350 50  0001 C CNN
-F 3 "" H 2350 2350 50  0001 C CNN
-	1    2350 2350
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR042
-U 1 1 601A2CF8
-P 3000 1700
-F 0 "#PWR042" H 3000 1550 50  0001 C CNN
-F 1 "+5V" H 3015 1873 50  0000 C CNN
-F 2 "" H 3000 1700 50  0001 C CNN
-F 3 "" H 3000 1700 50  0001 C CNN
-	1    3000 1700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_POT RV2
-U 1 1 601A87D3
-P 2350 2150
-F 0 "RV2" H 2280 2104 50  0000 R CNN
-F 1 "R_POT" H 2280 2195 50  0000 R CNN
-F 2 "" H 2350 2150 50  0001 C CNN
-F 3 "~" H 2350 2150 50  0001 C CNN
-	1    2350 2150
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	2200 2150 2150 2150
-Wire Wire Line
-	2350 2000 2350 1550
-Wire Wire Line
-	2350 1550 1750 1550
-Connection ~ 1750 1550
-Wire Wire Line
-	1750 1550 1750 1650
-Wire Wire Line
-	2350 2350 2350 2300
-Wire Wire Line
-	2350 2350 2250 2350
-Wire Wire Line
-	2250 2350 2250 2550
-Wire Wire Line
-	2250 2550 2150 2550
-Connection ~ 2350 2350
-$Comp
-L Transistor_BJT:BC547 Q1
-U 1 1 601C0547
-P 3100 2350
-F 0 "Q1" H 3291 2396 50  0000 L CNN
-F 1 "BC547" H 3291 2305 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 3300 2275 50  0001 L CIN
-F 3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" H 3100 2350 50  0001 L CNN
-	1    3100 2350
-	-1   0    0    -1  
-$EndComp
-$Comp
-L Device:R_Small R9
-U 1 1 601C3595
-P 3000 1950
-F 0 "R9" V 2900 1950 50  0000 C CNN
-F 1 "R_Small" V 3100 1950 50  0000 C CNN
-F 2 "" H 3000 1950 50  0001 C CNN
-F 3 "~" H 3000 1950 50  0001 C CNN
-	1    3000 1950
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	3000 2550 3000 2650
-Wire Wire Line
-	3000 2650 2150 2650
-Wire Wire Line
-	3000 2150 3000 2050
-Wire Wire Line
-	3000 1700 3000 1850
-Wire Wire Line
-	3300 2350 3450 2350
 $Comp
 L Device:C_Small C14
 U 1 1 601CEA06
@@ -995,10 +770,6 @@ Wire Wire Line
 Wire Wire Line
 	3200 4300 3200 4150
 Connection ~ 3200 4150
-Text GLabel 3750 2350 2    50   BiDi ~ 10
-PA31
-Wire Wire Line
-	3750 2350 3650 2350
 Wire Wire Line
 	7850 3050 8000 3050
 Wire Wire Line
@@ -1091,4 +862,149 @@ Wire Notes Line
 	550  7500 4150 7500
 Wire Notes Line
 	550  5700 4150 5700
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even J?
+U 1 1 6069055C
+P 2150 2150
+F 0 "J?" H 2200 2767 50  0000 C CNN
+F 1 "LED Interface" H 2200 2676 50  0000 C CNN
+F 2 "" H 2150 2150 50  0001 C CNN
+F 3 "~" H 2150 2150 50  0001 C CNN
+	1    2150 2150
+	1    0    0    -1  
+$EndComp
+Text GLabel 1800 1850 0    50   BiDi ~ 10
+PA00
+Text GLabel 2600 1850 2    50   BiDi ~ 10
+PA01
+Text GLabel 1800 1950 0    50   BiDi ~ 10
+PA02
+Text GLabel 2600 1950 2    50   BiDi ~ 10
+PA03
+Text GLabel 1800 2050 0    50   BiDi ~ 10
+PA04
+Text GLabel 2600 2050 2    50   BiDi ~ 10
+PA05
+Text GLabel 1800 2150 0    50   BiDi ~ 10
+PA06
+Text GLabel 2600 2150 2    50   BiDi ~ 10
+PA07
+Text GLabel 1800 2250 0    50   BiDi ~ 10
+PA25
+Text GLabel 2600 2250 2    50   BiDi ~ 10
+PA27
+Text GLabel 1800 2350 0    50   BiDi ~ 10
+PA28
+Text GLabel 1800 2550 0    50   BiDi ~ 10
+PA14
+Text GLabel 2600 2450 2    50   BiDi ~ 10
+PA11
+Text GLabel 1800 2450 0    50   BiDi ~ 10
+PA10
+Text GLabel 2600 2550 2    50   BiDi ~ 10
+PA15
+Text GLabel 2600 2350 2    50   BiDi ~ 10
+PA31
+Wire Wire Line
+	1800 1850 1950 1850
+Wire Wire Line
+	1950 1950 1800 1950
+Wire Wire Line
+	1800 2050 1950 2050
+Wire Wire Line
+	1950 2150 1800 2150
+Wire Wire Line
+	1800 2250 1950 2250
+Wire Wire Line
+	1950 2350 1800 2350
+Wire Wire Line
+	1800 2450 1950 2450
+Wire Wire Line
+	1950 2550 1800 2550
+Wire Wire Line
+	2450 2550 2600 2550
+Wire Wire Line
+	2600 2450 2450 2450
+Wire Wire Line
+	2450 2350 2600 2350
+Wire Wire Line
+	2600 2250 2450 2250
+Wire Wire Line
+	2450 2150 2600 2150
+Wire Wire Line
+	2600 2050 2450 2050
+Wire Wire Line
+	2450 1950 2600 1950
+Wire Wire Line
+	2600 1850 2450 1850
+$Comp
+L power:GND #PWR?
+U 1 1 606D565B
+P 2600 2750
+F 0 "#PWR?" H 2600 2500 50  0001 C CNN
+F 1 "GND" H 2605 2577 50  0000 C CNN
+F 2 "" H 2600 2750 50  0001 C CNN
+F 3 "" H 2600 2750 50  0001 C CNN
+	1    2600 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 606D5B76
+P 1800 2750
+F 0 "#PWR?" H 1800 2500 50  0001 C CNN
+F 1 "GND" H 1805 2577 50  0000 C CNN
+F 2 "" H 1800 2750 50  0001 C CNN
+F 3 "" H 1800 2750 50  0001 C CNN
+	1    1800 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2450 2650 2600 2650
+Wire Wire Line
+	2600 2650 2600 2750
+Wire Wire Line
+	1800 2750 1800 2650
+Wire Wire Line
+	1800 2650 1950 2650
+$Comp
+L power:+5V #PWR?
+U 1 1 606DFE5F
+P 2600 1550
+F 0 "#PWR?" H 2600 1400 50  0001 C CNN
+F 1 "+5V" V 2615 1678 50  0000 L CNN
+F 2 "" H 2600 1550 50  0001 C CNN
+F 3 "" H 2600 1550 50  0001 C CNN
+	1    2600 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 606E0CFA
+P 1800 1550
+F 0 "#PWR?" H 1800 1400 50  0001 C CNN
+F 1 "+5V" V 1815 1678 50  0000 L CNN
+F 2 "" H 1800 1550 50  0001 C CNN
+F 3 "" H 1800 1550 50  0001 C CNN
+	1    1800 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 1550 1800 1750
+Wire Wire Line
+	1800 1750 1950 1750
+Wire Wire Line
+	2450 1750 2600 1750
+Wire Wire Line
+	2600 1750 2600 1550
+Wire Notes Line
+	3050 1150 3050 3300
+Wire Notes Line
+	3050 3300 1350 3300
+Wire Notes Line
+	1350 3300 1350 1150
+Wire Notes Line
+	1350 1150 3050 1150
+Text Notes 1600 3150 0    50   ~ 0
+MCU-LED interface connector
 $EndSCHEMATC

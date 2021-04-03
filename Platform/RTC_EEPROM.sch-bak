@@ -451,10 +451,10 @@ Wire Wire Line
 Wire Wire Line
 	8150 2350 8450 2350
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP1
 U 1 1 60677E6E
 P 5350 2450
-F 0 "TP?" V 5545 2522 50  0000 C CNN
+F 0 "TP1" V 5545 2522 50  0000 C CNN
 F 1 "TestPoint" V 5454 2522 50  0000 C CNN
 F 2 "" H 5550 2450 50  0001 C CNN
 F 3 "~" H 5550 2450 50  0001 C CNN
