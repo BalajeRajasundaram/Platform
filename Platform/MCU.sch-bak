@@ -365,7 +365,7 @@ NoConn ~ 8250 3250
 Wire Notes Line
 	7350 4000 7350 2300
 $Comp
-L Device:CP C7
+L Device:C C7
 U 1 1 5FB646A0
 P 4900 1400
 F 0 "C7" H 5018 1446 50  0000 L CNN
@@ -391,7 +391,7 @@ F 3 "" H 4900 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C6
+L Device:C C6
 U 1 1 5FB67AB7
 P 4250 1400
 F 0 "C6" H 4368 1446 50  0000 L CNN
@@ -416,7 +416,7 @@ F 3 "" H 4250 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C8
+L Device:C C8
 U 1 1 5FB6BF77
 P 6600 1600
 F 0 "C8" H 6718 1646 50  0000 L CNN
