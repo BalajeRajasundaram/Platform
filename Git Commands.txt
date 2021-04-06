@@ -1,0 +1,21 @@
+
+1) C:\Users\ELCOT\Platform_2>git pull
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 1), reused 4 (delta 1), pack-reused 0
+Unpacking objects: 100% (4/4), 21.95 KiB | 53.00 KiB/s, done.
+From https://github.com/BalajeRajasundaram/Platform
+   f2ba6ce..3e51ec4  main       -> origin/main
+Updating f2ba6ce..3e51ec4
+Fast-forward
+ Platform/SAM D20 Family Data Sheet_IO.xlsx | Bin 16226 -> 25683 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+2) git commit "File Name"
+in the Vi Editor enter the commit message
+ESC + :wq
+
+
+3) git push

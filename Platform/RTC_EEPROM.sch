@@ -19,13 +19,13 @@ U 1 1 5FB19700
 P 7050 2350
 F 0 "U6" H 7050 1861 50  0000 C CNN
 F 1 "MCP7940N-xMS" H 7050 1770 50  0000 C CNN
-F 2 "" H 7050 2350 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 7050 2350 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf" H 7050 2350 50  0001 C CNN
 	1    7050 2350
 	1    0    0    -1  
 $EndComp
 $Comp
-L Platform-rescue:BS-7-dk_Battery-Holders-Clips-Contacts-Platform-rescue BAT1
+L Platform-rescue:BS-7-dk_Battery-Holders-Clips-Contacts-Platform-rescue-Platform-rescue BAT1
 U 1 1 5FB40A5C
 P 7500 1650
 F 0 "BAT1" H 7628 1703 60  0000 L CNN
@@ -61,7 +61,7 @@ U 1 1 5FB42048
 P 5350 1800
 F 0 "C10" H 5468 1846 50  0000 L TNN
 F 1 "0.1U to 1UF" H 5468 1755 50  0000 R TNN
-F 2 "" H 5388 1650 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5388 1650 50  0001 C CNN
 F 3 "~" H 5350 1800 50  0001 C CNN
 	1    5350 1800
 	1    0    0    -1  
@@ -449,7 +449,7 @@ U 1 1 60677E6E
 P 5350 2450
 F 0 "TP1" V 5545 2522 50  0000 C CNN
 F 1 "TestPoint" V 5454 2522 50  0000 C CNN
-F 2 "" H 5550 2450 50  0001 C CNN
+F 2 "TestPoint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm" H 5550 2450 50  0001 C CNN
 F 3 "~" H 5550 2450 50  0001 C CNN
 	1    5350 2450
 	0    -1   -1   0   
