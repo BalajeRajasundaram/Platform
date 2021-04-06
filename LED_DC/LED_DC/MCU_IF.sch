@@ -19,7 +19,7 @@ U 1 1 5FF5004C
 P 8300 1500
 F 0 "H1" H 8400 1503 50  0000 L CNN
 F 1 "MountingHole_Pad" H 8400 1458 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 8300 1500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 8300 1500 50  0001 C CNN
 F 3 "~" H 8300 1500 50  0001 C CNN
 	1    8300 1500
 	1    0    0    -1  
@@ -43,7 +43,7 @@ U 1 1 5FF5174B
 P 8700 1500
 F 0 "H2" H 8800 1503 50  0000 L CNN
 F 1 "MountingHole_Pad" H 8800 1458 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 8700 1500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 8700 1500 50  0001 C CNN
 F 3 "~" H 8700 1500 50  0001 C CNN
 	1    8700 1500
 	1    0    0    -1  
@@ -67,7 +67,7 @@ U 1 1 5FF524B0
 P 9100 1500
 F 0 "H3" H 9200 1503 50  0000 L CNN
 F 1 "MountingHole_Pad" H 9200 1458 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 9100 1500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 9100 1500 50  0001 C CNN
 F 3 "~" H 9100 1500 50  0001 C CNN
 	1    9100 1500
 	1    0    0    -1  
@@ -91,7 +91,7 @@ U 1 1 5FF5377F
 P 9450 1500
 F 0 "H4" H 9550 1503 50  0000 L CNN
 F 1 "MountingHole_Pad" H 9550 1458 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 9450 1500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 9450 1500 50  0001 C CNN
 F 3 "~" H 9450 1500 50  0001 C CNN
 	1    9450 1500
 	1    0    0    -1  
