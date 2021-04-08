@@ -355,7 +355,7 @@ U 1 1 5FAB8A00
 P 4650 2000
 F 0 "J1" H 4568 1675 50  0000 C CNN
 F 1 "12V INPUT" H 4568 1766 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4650 2000 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 4650 2000 50  0001 C CNN
 F 3 "~" H 4650 2000 50  0001 C CNN
 	1    4650 2000
 	-1   0    0    1   
@@ -388,7 +388,7 @@ U 1 1 5FABED39
 P 8150 1450
 F 0 "H1" H 8250 1496 50  0000 L CNN
 F 1 "MountingHole" H 8250 1405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 8150 1450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 8150 1450 50  0001 C CNN
 F 3 "~" H 8150 1450 50  0001 C CNN
 	1    8150 1450
 	1    0    0    -1  
@@ -399,7 +399,7 @@ U 1 1 5FABF30F
 P 8850 1450
 F 0 "H2" H 8950 1496 50  0000 L CNN
 F 1 "MountingHole" H 8950 1405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 8850 1450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 8850 1450 50  0001 C CNN
 F 3 "~" H 8850 1450 50  0001 C CNN
 	1    8850 1450
 	1    0    0    -1  
@@ -410,7 +410,7 @@ U 1 1 5FABF685
 P 9550 1450
 F 0 "H3" H 9650 1496 50  0000 L CNN
 F 1 "MountingHole" H 9650 1405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 9550 1450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 9550 1450 50  0001 C CNN
 F 3 "~" H 9550 1450 50  0001 C CNN
 	1    9550 1450
 	1    0    0    -1  
@@ -421,7 +421,7 @@ U 1 1 5FABF99D
 P 10250 1450
 F 0 "H4" H 10350 1496 50  0000 L CNN
 F 1 "MountingHole" H 10350 1405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 10250 1450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 10250 1450 50  0001 C CNN
 F 3 "~" H 10250 1450 50  0001 C CNN
 	1    10250 1450
 	1    0    0    -1  
@@ -484,7 +484,7 @@ U 1 1 5FACD235
 P 6350 1450
 F 0 "J3" H 6120 1408 50  0000 R CNN
 F 1 "Barrel_Jack" H 6120 1499 50  0000 R CNN
-F 2 "" H 6400 1410 50  0001 C CNN
+F 2 "Connector_BarrelJack:BarrelJack_Horizontal" H 6400 1410 50  0001 C CNN
 F 3 "~" H 6400 1410 50  0001 C CNN
 	1    6350 1450
 	-1   0    0    1   
@@ -608,7 +608,7 @@ U 1 1 606CD559
 P 900 6100
 F 0 "J5" H 818 5775 50  0000 C CNN
 F 1 "AC INPUT" H 818 5866 50  0000 C CNN
-F 2 "" H 900 6100 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 900 6100 50  0001 C CNN
 F 3 "~" H 900 6100 50  0001 C CNN
 	1    900  6100
 	-1   0    0    1   
@@ -619,7 +619,7 @@ U 1 1 606CE1F7
 P 1250 6050
 F 0 "RV1" H 1353 6096 50  0000 L CNN
 F 1 "Varistor" H 1353 6005 50  0000 L CNN
-F 2 "" V 1180 6050 50  0001 C CNN
+F 2 "Varistor:RV_Disc_D21.5mm_W4.4mm_P10mm" V 1180 6050 50  0001 C CNN
 F 3 "~" H 1250 6050 50  0001 C CNN
 	1    1250 6050
 	1    0    0    -1  
@@ -674,7 +674,7 @@ U 1 1 606D06CF
 P 2750 6100
 F 0 "C13" H 2868 6146 50  0000 L CNN
 F 1 "2000uF" H 2868 6055 50  0000 L CNN
-F 2 "" H 2788 5950 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D10.0mm_P2.50mm" H 2788 5950 50  0001 C CNN
 F 3 "~" H 2750 6100 50  0001 C CNN
 	1    2750 6100
 	1    0    0    -1  
@@ -685,7 +685,7 @@ U 1 1 606D11AD
 P 3100 6100
 F 0 "D3" V 3054 6180 50  0000 L CNN
 F 1 "5V_Zener" V 3145 6180 50  0000 L CNN
-F 2 "" H 3100 6100 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3100 6100 50  0001 C CNN
 F 3 "~" H 3100 6100 50  0001 C CNN
 	1    3100 6100
 	0    1    1    0   
@@ -702,11 +702,11 @@ F 3 "~" H 3450 5750 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L Isolator:NSL-32 U4
+L Isolator:EL814 U4
 U 1 1 606D3219
 P 4100 6100
 F 0 "U4" H 4100 6417 50  0000 C CNN
-F 1 "NSL-32" H 4100 6326 50  0000 C CNN
+F 1 "EL814" H 4100 6326 50  0000 C CNN
 F 2 "OptoDevice:Luna_NSL-32" H 4100 5800 50  0001 C CNN
 F 3 "http://lunainc.com/wp-content/uploads/2016/06/NSL-32.pdf" H 4150 6100 50  0001 C CNN
 	1    4100 6100
