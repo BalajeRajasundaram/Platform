@@ -449,7 +449,7 @@ U 1 1 60677E6E
 P 5350 2450
 F 0 "TP1" V 5545 2522 50  0000 C CNN
 F 1 "TestPoint" V 5454 2522 50  0000 C CNN
-F 2 "TestPoint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm" H 5550 2450 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 5550 2450 50  0001 C CNN
 F 3 "~" H 5550 2450 50  0001 C CNN
 	1    5350 2450
 	0    -1   -1   0   

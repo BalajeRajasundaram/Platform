@@ -1013,7 +1013,7 @@ U 1 1 606AD8C9
 P 5600 6450
 F 0 "J11" H 5680 6442 50  0000 L CNN
 F 1 "Relay_conn" H 5680 6351 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5600 6450 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical" H 5600 6450 50  0001 C CNN
 F 3 "~" H 5600 6450 50  0001 C CNN
 	1    5600 6450
 	1    0    0    -1  
