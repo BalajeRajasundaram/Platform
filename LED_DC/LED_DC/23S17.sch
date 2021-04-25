@@ -208,7 +208,7 @@ Wire Notes Line
 Wire Notes Line
 	5700 800  1500 800 
 $Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q1
+L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue Q1
 U 1 1 5FAF9A47
 P 8100 1250
 AR Path="/5FAF9A47" Ref="Q1"  Part="1" 
@@ -251,7 +251,7 @@ Wire Wire Line
 Text GLabel 10200 1150 2    50   Input ~ 0
 D_C_2
 $Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q?
+L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue Q?
 U 1 1 5FDA9743
 P 9800 1250
 AR Path="/5FDA9743" Ref="Q?"  Part="1" 
@@ -294,7 +294,7 @@ Wire Wire Line
 Text GLabel 8500 2300 2    50   Input ~ 0
 D_C_3
 $Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q?
+L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue Q?
 U 1 1 5FDAF306
 P 8100 2400
 AR Path="/5FDAF306" Ref="Q?"  Part="1" 
@@ -337,7 +337,7 @@ Wire Wire Line
 Text GLabel 10200 2300 2    50   Input ~ 0
 D_C_4
 $Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q?
+L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue Q?
 U 1 1 5FDAF320
 P 9800 2400
 AR Path="/5FDAF320" Ref="Q?"  Part="1" 
@@ -377,139 +377,10 @@ Text GLabel 9800 2700 3    50   Output ~ 0
 D_4
 Wire Wire Line
 	9800 2700 9800 2600
-Text GLabel 8500 4200 2    50   Input ~ 0
-D_C_5
-$Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q?
-U 1 1 5FDB7FD3
-P 8100 4300
-AR Path="/5FDB7FD3" Ref="Q?"  Part="1" 
-AR Path="/5FC37B24/5FDB7FD3" Ref="Q3"  Part="1" 
-F 0 "Q3" H 8208 4353 60  0000 L CNN
-F 1 "FDV304P" H 8208 4247 60  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 8300 4500 60  0001 L CNN
-F 3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 8300 4600 60  0001 L CNN
-F 4 "DMG2305UX-13DICT-ND" H 8300 4700 60  0001 L CNN "Digi-Key_PN"
-F 5 "DMG2305UX-13" H 8300 4800 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 8300 4900 60  0001 L CNN "Category"
-F 7 "Transistors - FETs, MOSFETs - Single" H 8300 5000 60  0001 L CNN "Family"
-F 8 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 8300 5100 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/diodes-incorporated/DMG2305UX-13/DMG2305UX-13DICT-ND/4251589" H 8300 5200 60  0001 L CNN "DK_Detail_Page"
-F 10 "MOSFET P-CH 20V 4.2A SOT23" H 8300 5300 60  0001 L CNN "Description"
-F 11 "Diodes Incorporated" H 8300 5400 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8300 5500 60  0001 L CNN "Status"
-	1    8100 4300
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:+5V #PWR017
-U 1 1 5FDB7FD9
-P 8100 4000
-F 0 "#PWR017" H 8100 3850 50  0001 C CNN
-F 1 "+5V" H 8115 4173 50  0000 C CNN
-F 2 "" H 8100 4000 50  0001 C CNN
-F 3 "" H 8100 4000 50  0001 C CNN
-	1    8100 4000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8100 4000 8100 4100
-Wire Wire Line
-	8400 4200 8500 4200
-Text GLabel 8100 4600 3    50   Output ~ 0
-D_5
-Wire Wire Line
-	8100 4600 8100 4500
-Text GLabel 10200 4200 2    50   Input ~ 0
-D_C_6
-$Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q?
-U 1 1 5FDB7FED
-P 9800 4300
-AR Path="/5FDB7FED" Ref="Q?"  Part="1" 
-AR Path="/5FC37B24/5FDB7FED" Ref="Q7"  Part="1" 
-F 0 "Q7" H 9908 4353 60  0000 L CNN
-F 1 "FDV304P" H 9908 4247 60  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 10000 4500 60  0001 L CNN
-F 3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 10000 4600 60  0001 L CNN
-F 4 "DMG2305UX-13DICT-ND" H 10000 4700 60  0001 L CNN "Digi-Key_PN"
-F 5 "DMG2305UX-13" H 10000 4800 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 10000 4900 60  0001 L CNN "Category"
-F 7 "Transistors - FETs, MOSFETs - Single" H 10000 5000 60  0001 L CNN "Family"
-F 8 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 10000 5100 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/diodes-incorporated/DMG2305UX-13/DMG2305UX-13DICT-ND/4251589" H 10000 5200 60  0001 L CNN "DK_Detail_Page"
-F 10 "MOSFET P-CH 20V 4.2A SOT23" H 10000 5300 60  0001 L CNN "Description"
-F 11 "Diodes Incorporated" H 10000 5400 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10000 5500 60  0001 L CNN "Status"
-	1    9800 4300
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:+5V #PWR021
-U 1 1 5FDB7FF3
-P 9800 4000
-F 0 "#PWR021" H 9800 3850 50  0001 C CNN
-F 1 "+5V" H 9815 4173 50  0000 C CNN
-F 2 "" H 9800 4000 50  0001 C CNN
-F 3 "" H 9800 4000 50  0001 C CNN
-	1    9800 4000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9800 4000 9800 4100
-Wire Wire Line
-	10100 4200 10200 4200
-Text GLabel 9800 4600 3    50   Output ~ 0
-D_6
-Wire Wire Line
-	9800 4600 9800 4500
-Text GLabel 8500 5350 2    50   Input ~ 0
-D_C_7
-$Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q?
-U 1 1 5FDB8007
-P 8100 5450
-AR Path="/5FDB8007" Ref="Q?"  Part="1" 
-AR Path="/5FC37B24/5FDB8007" Ref="Q4"  Part="1" 
-F 0 "Q4" H 8208 5503 60  0000 L CNN
-F 1 "FDV304P" H 8208 5397 60  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 8300 5650 60  0001 L CNN
-F 3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 8300 5750 60  0001 L CNN
-F 4 "DMG2305UX-13DICT-ND" H 8300 5850 60  0001 L CNN "Digi-Key_PN"
-F 5 "DMG2305UX-13" H 8300 5950 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 8300 6050 60  0001 L CNN "Category"
-F 7 "Transistors - FETs, MOSFETs - Single" H 8300 6150 60  0001 L CNN "Family"
-F 8 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 8300 6250 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/diodes-incorporated/DMG2305UX-13/DMG2305UX-13DICT-ND/4251589" H 8300 6350 60  0001 L CNN "DK_Detail_Page"
-F 10 "MOSFET P-CH 20V 4.2A SOT23" H 8300 6450 60  0001 L CNN "Description"
-F 11 "Diodes Incorporated" H 8300 6550 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8300 6650 60  0001 L CNN "Status"
-	1    8100 5450
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:+5V #PWR018
-U 1 1 5FDB800D
-P 8100 5150
-F 0 "#PWR018" H 8100 5000 50  0001 C CNN
-F 1 "+5V" H 8115 5323 50  0000 C CNN
-F 2 "" H 8100 5150 50  0001 C CNN
-F 3 "" H 8100 5150 50  0001 C CNN
-	1    8100 5150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8100 5150 8100 5250
-Wire Wire Line
-	8400 5350 8500 5350
-Text GLabel 8100 5750 3    50   Output ~ 0
-D_7
-Wire Wire Line
-	8100 5750 8100 5650
 Text GLabel 10200 5350 2    50   Input ~ 0
 D_C_8
 $Comp
-L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q?
+L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue Q?
 U 1 1 5FDB8021
 P 9800 5450
 AR Path="/5FDB8021" Ref="Q?"  Part="1" 
@@ -846,4 +717,47 @@ Connection ~ 3350 3450
 Wire Wire Line
 	3350 2550 3550 2550
 Connection ~ 3350 2550
+Wire Wire Line
+	8100 4600 8100 4500
+Text GLabel 8100 4600 3    50   Output ~ 0
+D_5
+Wire Wire Line
+	8400 4200 8500 4200
+Wire Wire Line
+	8100 4000 8100 4100
+$Comp
+L power:+5V #PWR017
+U 1 1 5FDB7FD9
+P 8100 4000
+F 0 "#PWR017" H 8100 3850 50  0001 C CNN
+F 1 "+5V" H 8115 4173 50  0000 C CNN
+F 2 "" H 8100 4000 50  0001 C CNN
+F 3 "" H 8100 4000 50  0001 C CNN
+	1    8100 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED_DC-rescue:DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue Q?
+U 1 1 5FDB7FD3
+P 8100 4300
+AR Path="/5FDB7FD3" Ref="Q?"  Part="1" 
+AR Path="/5FC37B24/5FDB7FD3" Ref="Q3"  Part="1" 
+F 0 "Q3" H 8208 4353 60  0000 L CNN
+F 1 "FDV304P" H 8208 4247 60  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 8300 4500 60  0001 L CNN
+F 3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 8300 4600 60  0001 L CNN
+F 4 "DMG2305UX-13DICT-ND" H 8300 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "DMG2305UX-13" H 8300 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 8300 4900 60  0001 L CNN "Category"
+F 7 "Transistors - FETs, MOSFETs - Single" H 8300 5000 60  0001 L CNN "Family"
+F 8 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 8300 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/diodes-incorporated/DMG2305UX-13/DMG2305UX-13DICT-ND/4251589" H 8300 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "MOSFET P-CH 20V 4.2A SOT23" H 8300 5300 60  0001 L CNN "Description"
+F 11 "Diodes Incorporated" H 8300 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8300 5500 60  0001 L CNN "Status"
+	1    8100 4300
+	-1   0    0    1   
+$EndComp
+Text GLabel 8500 4200 2    50   Input ~ 0
+D_C_5
 $EndSCHEMATC

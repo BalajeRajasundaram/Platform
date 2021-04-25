@@ -185,11 +185,11 @@ X F 9 -300 -200 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single
+# LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue
 #
-DEF LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single Q 0 0 Y Y 1 F N
+DEF LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R CNN
-F1 "LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single" 136 0 60 V V C CNN
+F1 "LED_DC-rescue_DMG2305UX-13-dk_Transistors-FETs-MOSFETs-Single-LED_DC-rescue" 136 0 60 V V C CNN
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L CNN
 F3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" 200 300 60 H I L CNN
 F4 "DMG2305UX-13DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"

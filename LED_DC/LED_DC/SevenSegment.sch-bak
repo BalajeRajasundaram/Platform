@@ -14,40 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Display_Character:KCSA02-136 U9
-U 1 1 5FB55AD1
-P 7650 2000
-F 0 "U9" H 7650 2667 50  0000 C CNN
-F 1 "KCSA02-136" H 7650 2576 50  0000 C CNN
-F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 7650 1400 50  0001 C CNN
-F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 7150 2475 50  0001 L CNN
-	1    7650 2000
-	1    0    0    -1  
-$EndComp
-Text GLabel 7950 2650 2    50   Input ~ 0
-D_7
-Wire Wire Line
-	7950 2650 7950 2400
-Wire Wire Line
-	7950 2300 7950 2400
-Connection ~ 7950 2400
-Text GLabel 7350 1700 0    50   Input ~ 0
-A
-Text GLabel 7350 1800 0    50   Input ~ 0
-B
-Text GLabel 7350 1900 0    50   Input ~ 0
-C
-Text GLabel 7350 2000 0    50   Input ~ 0
-D
-Text GLabel 7350 2100 0    50   Input ~ 0
-E
-Text GLabel 7350 2200 0    50   Input ~ 0
-F
-Text GLabel 7350 2300 0    50   Input ~ 0
-G
-Text GLabel 7350 2400 0    50   Input ~ 0
-DP
-$Comp
 L Display_Character:KCSA02-136 U3
 U 1 1 5FB5CA24
 P 1200 2000
@@ -182,74 +148,6 @@ F
 Text GLabel 4250 2300 0    50   Input ~ 0
 G
 Text GLabel 4250 2400 0    50   Input ~ 0
-DP
-$Comp
-L Display_Character:KCSA02-136 U7
-U 1 1 5FB633C5
-P 5550 2000
-F 0 "U7" H 5550 2667 50  0000 C CNN
-F 1 "KCSA02-136" H 5550 2576 50  0000 C CNN
-F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 5550 1400 50  0001 C CNN
-F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 5050 2475 50  0001 L CNN
-	1    5550 2000
-	1    0    0    -1  
-$EndComp
-Text GLabel 5850 2650 2    50   Input ~ 0
-D_5
-Wire Wire Line
-	5850 2650 5850 2400
-Wire Wire Line
-	5850 2300 5850 2400
-Connection ~ 5850 2400
-Text GLabel 5250 1700 0    50   Input ~ 0
-A
-Text GLabel 5250 1800 0    50   Input ~ 0
-B
-Text GLabel 5250 1900 0    50   Input ~ 0
-C
-Text GLabel 5250 2000 0    50   Input ~ 0
-D
-Text GLabel 5250 2100 0    50   Input ~ 0
-E
-Text GLabel 5250 2200 0    50   Input ~ 0
-F
-Text GLabel 5250 2300 0    50   Input ~ 0
-G
-Text GLabel 5250 2400 0    50   Input ~ 0
-DP
-$Comp
-L Display_Character:KCSA02-136 U8
-U 1 1 5FB65C47
-P 6550 2000
-F 0 "U8" H 6550 2667 50  0000 C CNN
-F 1 "KCSA02-136" H 6550 2576 50  0000 C CNN
-F 2 "Display_7Segment:7SegmentLED_LTS6760_LTS6780" H 6550 1400 50  0001 C CNN
-F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-136(Ver.7B).pdf" H 6050 2475 50  0001 L CNN
-	1    6550 2000
-	1    0    0    -1  
-$EndComp
-Text GLabel 6850 2650 2    50   Input ~ 0
-D_6
-Wire Wire Line
-	6850 2650 6850 2400
-Wire Wire Line
-	6850 2300 6850 2400
-Connection ~ 6850 2400
-Text GLabel 6250 1700 0    50   Input ~ 0
-A
-Text GLabel 6250 1800 0    50   Input ~ 0
-B
-Text GLabel 6250 1900 0    50   Input ~ 0
-C
-Text GLabel 6250 2000 0    50   Input ~ 0
-D
-Text GLabel 6250 2100 0    50   Input ~ 0
-E
-Text GLabel 6250 2200 0    50   Input ~ 0
-F
-Text GLabel 6250 2300 0    50   Input ~ 0
-G
-Text GLabel 6250 2400 0    50   Input ~ 0
 DP
 Text GLabel 6600 4000 2    50   Input ~ 0
 D_8

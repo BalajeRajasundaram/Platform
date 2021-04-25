@@ -11,18 +11,18 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 4939)
+    (start_pass_no 5431)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 2.0)
+      (against_preferred_direction_trace_costs 2.8)
     )
     (layer_rule B.Cu
       (active on)
       (preferred_direction vertical)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 2.0)
+      (against_preferred_direction_trace_costs 1.6)
     )
   )
   (rule
@@ -63,13 +63,13 @@
     )
   )
   (class "kicad_default"
-    "D_8" E F G DP A B C
-    D GND "Net-(DS1-Pad2)" +5V "Net-(DS1-Pad5)" C3 C2 C1
-    D0 D1 D2 D3 D4 D5 D6 D7
-    "KEY_ROW1" "KEY_ROW2" "KEY_COL1" "KEY_COL2" "D_1" "D_C_1" "D_3" "D_C_3"
-    "D_C_5" "D_5" "D_C_7" "D_7" "D_C_2" "D_2" "D_C_4" "D_4"
-    "D_6" "D_C_6" "D_C_8" "Net-(R4-Pad1)" "Net-(R5-Pad1)" "Net-(R6-Pad1)" "Net-(R7-Pad1)" "Net-(R8-Pad1)"
-    "Net-(R9-Pad1)" "Net-(R10-Pad1)" "Net-(R11-Pad1)" "Net-(TP1-Pad1)"
+    E "D_8" F G DP A B C
+    D GND +5V D0 D1 D2 D3 D4
+    D5 D6 D7 C1 C2 C3 "Net-(J1-Pad14)" "KEY_ROW1"
+    "KEY_ROW2" "KEY_COL1" "KEY_COL2" "D_C_1" "D_1" "D_C_3" "D_3" "D_C_5"
+    "D_5" "D_C_7" "D_2" "D_C_2" "D_4" "D_C_4" "D_C_6" "D_C_8"
+    "Net-(R4-Pad1)" "Net-(R5-Pad1)" "Net-(R6-Pad1)" "Net-(R7-Pad1)" "Net-(R8-Pad1)" "Net-(R9-Pad1)" "Net-(R10-Pad1)" "Net-(R11-Pad1)"
+    "Net-(TP1-Pad1)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
