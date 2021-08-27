@@ -13,6 +13,35 @@
 #include <hpl_gclk_base.h>
 #include <hpl_pm_base.h>
 
+struct timer_descriptor TIMER_0;
+
+struct flash_descriptor FLASH_0;
+
+void FLASH_0_CLOCK_init(void)
+{
+
+	_pm_enable_bus_clock(PM_BUS_APBB, NVMCTRL);
+}
+
+void FLASH_0_init(void)
+{
+	FLASH_0_CLOCK_init();
+	flash_init(&FLASH_0, NVMCTRL);
+}
+
+/**
+ * \brief Timer initialization function
+ *
+ * Enables Timer peripheral, clocks and initializes Timer driver
+ */
+static void TIMER_0_init(void)
+{
+	_pm_enable_bus_clock(PM_BUS_APBC, TC0);
+	_gclk_enable_channel(TC0_GCLK_ID, CONF_GCLK_TC0_SRC);
+
+	timer_init(&TIMER_0, TC0, _tc_get_timer());
+}
+
 void system_init(void)
 {
 	init_mcu();
@@ -347,4 +376,8 @@ void system_init(void)
 	gpio_set_pin_direction(LED_CTRL, GPIO_DIRECTION_OUT);
 
 	gpio_set_pin_function(LED_CTRL, GPIO_PIN_FUNCTION_OFF);
+
+	FLASH_0_init();
+
+	TIMER_0_init();
 }
