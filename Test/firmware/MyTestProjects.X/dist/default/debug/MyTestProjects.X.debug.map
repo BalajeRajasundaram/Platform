@@ -1,0 +1,1800 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+                              build/default/debug/_ext/1171490990/startup_xc32.o (__pic32c_data_initialization)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+                              build/default/debug/_ext/1360937237/main.o (__aeabi_uidivmod)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+                              build/default/debug/_ext/1360937237/Segment.o (__aeabi_idiv)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+                              build/default/debug/_ext/1360937237/Segment.o (__aeabi_fcmpge)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+                              build/default/debug/_ext/1360937237/Segment.o (__aeabi_fadd)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o) (__gesf2)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o) (__lesf2)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+                              build/default/debug/_ext/1360937237/Segment.o (__aeabi_fmul)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+                              build/default/debug/_ext/1360937237/Segment.o (__aeabi_f2iz)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+                              build/default/debug/_ext/1360937237/Segment.o (__aeabi_i2f)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o) (__gnu_thumb1_case_uqi)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o) (__clzsi2)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+                              build/default/debug/_ext/1360937237/Keypad.o (calloc)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o) (_calloc_r)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o) (_impure_ptr)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+                              build/default/debug/_ext/1171490990/startup_xc32.o (__libc_init_array)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+                              build/default/debug/_ext/1360937237/Keypad.o (free)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o) (_malloc_r)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+                              build/default/debug/_ext/1360937237/app.o (memcmp)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+                              build/default/debug/_ext/1593096446/plib_nvmctrl.o (memcpy)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+                              build/default/debug/_ext/1360937237/Keypad.o (memset)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o) (__malloc_lock)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o) (_sbrk_r)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+                              build/default/debug/_ext/1360937237/Segment.o (strlen)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o) (_free_r)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o) (errno)
+c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+                              c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+digitOffVal         0x1               build/default/debug/_ext/1360937237/Segment.o
+now                 0x4               build/default/debug/_ext/1360937237/app.o
+numDigits           0x1               build/default/debug/_ext/1360937237/Segment.o
+errno               0x4               c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+prevUpdateIdx       0x1               build/default/debug/_ext/1360937237/Segment.o
+keyMapAfterDebounce
+                    0x1               build/default/debug/_ext/1360937237/Keypad.o
+lastKeySetting_     0x4               build/default/debug/_ext/1360937237/Keypad.o
+leadingZeros        0x1               build/default/debug/_ext/1360937237/Segment.o
+endRowHandler_      0x4               build/default/debug/_ext/1360937237/Keypad.o
+TC0_CallbackObject  0x8               build/default/debug/_ext/829342655/plib_tc0.o
+numSegments         0x1               build/default/debug/_ext/1360937237/Segment.o
+context             0x4               build/default/debug/_ext/1360937237/main.o
+keyUpHandler_       0x4               build/default/debug/_ext/1360937237/Keypad.o
+segmentOffVal       0x1               build/default/debug/_ext/1360937237/Segment.o
+segmentOnVal        0x1               build/default/debug/_ext/1360937237/Segment.o
+digitOnVal          0x1               build/default/debug/_ext/1360937237/Segment.o
+ledOnTime           0x2               build/default/debug/_ext/1360937237/Segment.o
+keyOverallDebounce  0x4               build/default/debug/_ext/1360937237/Keypad.o
+prev_millis         0x4               build/default/debug/_ext/1360937237/app.o
+debounce_restart    0x1               build/default/debug/_ext/1360937237/Keypad.o
+lastKeyTime_        0x4               build/default/debug/_ext/1360937237/Keypad.o
+waitOffActive       0x1               build/default/debug/_ext/1360937237/Segment.o
+resOnSegments       0x1               build/default/debug/_ext/1360937237/Segment.o
+prevUpdateTime      0x4               build/default/debug/_ext/1360937237/Segment.o
+digitCodes          0x8               build/default/debug/_ext/1360937237/Segment.o
+startRowHandler_    0x4               build/default/debug/_ext/1360937237/Keypad.o
+waitOffTime         0x2               build/default/debug/_ext/1360937237/Segment.o
+readHandler_        0x4               build/default/debug/_ext/1360937237/Keypad.o
+keyDownHandler_     0x4               build/default/debug/_ext/1360937237/Keypad.o
+debounce_Time_      0x4               build/default/debug/_ext/1360937237/Keypad.o
+updateWithDelays    0x1               build/default/debug/_ext/1360937237/Segment.o
+
+Microchip PIC32 Memory-Usage Report
+
+ROM Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.vectors                         0           0xa4         164   
+.text                         0xa4           0x20          32  App's exec code 
+.dinit                        0xc4          0x9e0        2528   
+.text._malloc_r              0xaa4          0x3ec        1004   
+.text.Keypad_scan            0xe90          0x250         592   
+.text.prog_sm               0x10e0          0x220         544   
+.text._free_r               0x1300          0x168         360   
+.text.begin                 0x1468          0x15c         348   
+.text.refreshDisplay        0x15c4          0x14c         332   
+.text.setChars              0x1710           0xf4         244   
+.text.CLOCK_Initialize      0x1804           0xec         236   
+.text.DigitWrite            0x18f0           0xd0         208   
+.text.event_receiver        0x19c0           0x94         148   
+.text._malloc_trim_r        0x1a54           0x94         148   
+.text.run_sm                0x1ae8           0x90         144   
+.text.__pic32c_data_ini     0x1b78           0x90         144   
+.text.Keypad_Matrix_con     0x1c08           0x8c         140   
+.text                       0x1c94           0x8c         140  App's exec code 
+.text.keyPressHandler       0x1d20           0x80         128   
+.text.SevSeg_init           0x1da0           0x78         120   
+.text.keyReleaseHandler     0x1e18           0x6c         108   
+.text.keyFunctionHandle     0x1e84           0x64         100   
+.text.keyDebounceMgr        0x1ee8           0x64         100   
+.text.main                  0x1f4c           0x60          96   
+.text.segmentOn             0x1fac           0x5c          92   
+.text.digitOn               0x2008           0x5c          92   
+.text._calloc_r             0x2064           0x58          88   
+.text                       0x20bc           0x48          72  App's exec code 
+.text.Reset_Handler         0x2104           0x48          72   
+.text.Keypad_begin          0x214c           0x48          72   
+.text.__libc_init_array     0x2194           0x48          72   
+.text.TC0_TimerInitiali     0x21dc           0x40          64   
+.text.timer_1ms_cb          0x221c           0x40          64   
+.text.digitOff              0x225c           0x40          64   
+.text.PinWrite              0x229c           0x3c          60   
+.rodata                     0x22d8           0x38          56  Read-only const 
+.text.blank                 0x2310           0x34          52   
+.text._sbrk                 0x2344           0x30          48   
+.text.NVIC_Initialize       0x2374           0x2c          44   
+.text.PORT_Initialize       0x23a0           0x2c          44   
+.rodata.digitCodeMap        0x23cc           0x2c          44   
+.text.startRow              0x23f8           0x2c          44   
+.text.update_edit_posit     0x2424           0x2c          44   
+.text.SYS_Initialize        0x2450           0x28          40   
+.text.segmentOff            0x2478           0x28          40   
+.text.update_ip_string_     0x24a0           0x28          40   
+.text.TC0_TimerInterrup     0x24c8           0x24          36   
+.text.readPin               0x24ec           0x24          36   
+.rodata.keyFunctionHand     0x2510           0x24          36   
+.text._sbrk_r               0x2534           0x24          36   
+.text.endRow                0x2558           0x20          32   
+.text.sm                    0x2578           0x20          32   
+.text.memcmp                0x2598           0x1e          30   
+.text.EVSYS_Initialize      0x25b6            0x2           2   
+.text.TC0_TimerStart        0x25b8           0x18          24   
+.rodata.DigitWrite          0x25d0           0x14          20   
+.text.calloc                0x25e4           0x14          20   
+.text.free                  0x25f8           0x14          20   
+.text.elapsed_ms            0x260c           0x10          16   
+.text.memset                0x261c           0x10          16   
+.text.NVMCTRL_Initializ     0x262c            0xc          12   
+.text.TC0_TimerCallback     0x2638            0xc          12   
+.text.millis                0x2644            0xc          12   
+.rodata.default_pwd         0x2650            0x8           8   
+.text.PORT_GroupRead        0x2658            0x4           4   
+.text.PORT_GroupSet         0x265c            0x4           4   
+.text.PORT_GroupClear       0x2660            0x4           4   
+.text.PORT_GroupInputEn     0x2664            0x4           4   
+.text.PORT_GroupOutputE     0x2668            0x4           4   
+.text.NonMaskableInt_Ha     0x266c            0x4           4   
+.text.HardFault_Handler     0x2670            0x4           4   
+.rodata.colPins_            0x2674            0x4           4   
+.rodata.keyMap_             0x2678            0x4           4   
+.rodata.rowPins_            0x267c            0x4           4   
+.text                       0x2680            0x4           4  App's exec code 
+.text.Dummy_Handler         0x2684            0x2           2   
+.text.Dummy_App_Func        0x2686            0x2           2   
+.text.__malloc_lock         0x2688            0x2           2   
+.text.__malloc_unlock       0x268a            0x2           2   
+      Total ROM used  :      0x268c        9868  30.1% of 0x8000
+        --------------------------------------------------------------------------
+         Total Program Memory used  :      0x268c        9868  30.1% of 0x8000
+        --------------------------------------------------------------------------
+
+
+RAM Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.bss                    0x20000000           0x60          96  Uninitialized data 
+.data.impure_data       0x20000060          0x418        1048   
+.data.__malloc_av_      0x20000478          0x408        1032   
+.bss.__malloc_current_m 0x20000880           0x28          40   
+.bss                    0x200008a8           0x1c          28  Uninitialized data 
+.data.digitPins         0x200008c4            0x8           8   
+.data.segmentPins       0x200008cc            0x8           8   
+.data.ip_string         0x200008d4            0x5           5   
+.bss.task_20ms          0x200008d9            0x1           1   
+.bss.task_5ms           0x200008da            0x1           1   
+.data.numCols_          0x200008db            0x1           1   
+.bss.millicounter       0x200008dc            0x4           4   
+.data.keySt             0x200008e0            0x4           4   
+.data._impure_ptr       0x200008e4            0x4           4   
+.bss.__malloc_max_sbrke 0x200008e8            0x4           4   
+.bss.__malloc_max_total 0x200008ec            0x4           4   
+.bss.__malloc_top_pad   0x200008f0            0x4           4   
+.data.__malloc_sbrk_bas 0x200008f4            0x4           4   
+.data.__malloc_trim_thr 0x200008f8            0x4           4   
+.bss                    0x200008fc            0x4           4  Uninitialized data 
+.data.numRows_          0x20000900            0x1           1   
+.data.totalKeys_        0x20000901            0x1           1   
+.bss.edit_position      0x20000902            0x1           1   
+.bss.max_digits_enter   0x20000903            0x1           1   
+.bss.parent             0x20000904            0x1           1   
+.bss.state              0x20000905            0x1           1   
+.bss.substate           0x20000906            0x1           1   
+         Total RAM used  :       0x907        2311  56.4% of 0x1000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :       0x907        2311  56.4% of 0x1000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0x20000908          0x200         512  Reserved for heap 
+stack                   0x20000b20          0x4d0        1232  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1984496892/plib_clock.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1984496892/plib_clock.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1984496892/plib_clock.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1986646378/plib_evsys.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1986646378/plib_evsys.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1986646378/plib_evsys.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1865468468/plib_nvic.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1865468468/plib_nvic.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1865468468/plib_nvic.o
+ .text.NVIC_INT_Enable
+                0x00000000        0x8 build/default/debug/_ext/1865468468/plib_nvic.o
+ .text.NVIC_INT_Disable
+                0x00000000       0x12 build/default/debug/_ext/1865468468/plib_nvic.o
+ .text.NVIC_INT_Restore
+                0x00000000       0x14 build/default/debug/_ext/1865468468/plib_nvic.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_CacheInvalidate
+                0x00000000       0x10 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_Read
+                0x00000000       0x10 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_PageWrite
+                0x00000000       0x28 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_RowErase
+                0x00000000       0x18 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_ErrorGet
+                0x00000000       0x28 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_IsBusy
+                0x00000000       0x14 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_RegionLock
+                0x00000000       0x14 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text.NVMCTRL_RegionUnlock
+                0x00000000       0x14 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1865521619/plib_port.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1865521619/plib_port.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1865521619/plib_port.o
+ .text.PORT_GroupWrite
+                0x00000000        0xc build/default/debug/_ext/1865521619/plib_port.o
+ .text.PORT_GroupLatchRead
+                0x00000000        0x4 build/default/debug/_ext/1865521619/plib_port.o
+ .text.PORT_GroupToggle
+                0x00000000        0x4 build/default/debug/_ext/1865521619/plib_port.o
+ .text.PORT_PinPeripheralFunctionConfig
+                0x00000000       0x48 build/default/debug/_ext/1865521619/plib_port.o
+ .text.PORT_PinGPIOConfig
+                0x00000000       0x20 build/default/debug/_ext/1865521619/plib_port.o
+ .text          0x00000000        0x0 build/default/debug/_ext/829342655/plib_tc0.o
+ .data          0x00000000        0x0 build/default/debug/_ext/829342655/plib_tc0.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/829342655/plib_tc0.o
+ .text.TC0_TimerStop
+                0x00000000       0x18 build/default/debug/_ext/829342655/plib_tc0.o
+ .text.TC0_TimerFrequencyGet
+                0x00000000        0x8 build/default/debug/_ext/829342655/plib_tc0.o
+ .text.TC0_TimerCommandSet
+                0x00000000       0x18 build/default/debug/_ext/829342655/plib_tc0.o
+ .text.TC0_Timer16bitCounterGet
+                0x00000000       0x20 build/default/debug/_ext/829342655/plib_tc0.o
+ .text.TC0_Timer16bitCounterSet
+                0x00000000       0x14 build/default/debug/_ext/829342655/plib_tc0.o
+ .text.TC0_Timer16bitPeriodSet
+                0x00000000       0x14 build/default/debug/_ext/829342655/plib_tc0.o
+ .text.TC0_Timer16bitPeriodGet
+                0x00000000       0x20 build/default/debug/_ext/829342655/plib_tc0.o
+ .text          0x00000000        0x0 build/default/debug/_ext/163028504/xc32_monitor.o
+ .data          0x00000000        0x0 build/default/debug/_ext/163028504/xc32_monitor.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/163028504/xc32_monitor.o
+ .text._mon_getc
+                0x00000000        0x4 build/default/debug/_ext/163028504/xc32_monitor.o
+ .text._mon_putc
+                0x00000000        0x2 build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_info    0x00000000      0x247 build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_abbrev  0x00000000       0x75 build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_loc     0x00000000       0x21 build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_aranges
+                0x00000000       0x28 build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_ranges  0x00000000       0x18 build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_line    0x00000000       0x6b build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_str     0x00000000        0x0 build/default/debug/_ext/163028504/xc32_monitor.o
+ .comment       0x00000000       0x3d build/default/debug/_ext/163028504/xc32_monitor.o
+ .debug_frame   0x00000000       0x30 build/default/debug/_ext/163028504/xc32_monitor.o
+ .ARM.attributes
+                0x00000000       0x32 build/default/debug/_ext/163028504/xc32_monitor.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1171490990/initialization.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1171490990/initialization.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1171490990/initialization.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1171490990/interrupts.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1171490990/interrupts.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1171490990/interrupts.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1171490990/exceptions.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1171490990/exceptions.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1171490990/exceptions.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1171490990/startup_xc32.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1171490990/startup_xc32.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1171490990/startup_xc32.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .text._exit    0x00000000        0x4 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .debug_info    0x00000000      0xe24 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .debug_abbrev  0x00000000      0x1a1 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .debug_aranges
+                0x00000000       0x20 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .debug_ranges  0x00000000       0x10 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .debug_line    0x00000000      0x150 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .debug_str     0x00000000        0xe build/default/debug/_ext/1171490990/libc_syscalls.o
+ .comment       0x00000000       0x3d build/default/debug/_ext/1171490990/libc_syscalls.o
+ .debug_frame   0x00000000       0x20 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .ARM.attributes
+                0x00000000       0x32 build/default/debug/_ext/1171490990/libc_syscalls.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1360937237/main.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1360937237/main.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1360937237/main.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1360937237/Segment.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1360937237/Segment.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1360937237/Segment.o
+ .text.segmentWrite
+                0x00000000        0x8 build/default/debug/_ext/1360937237/Segment.o
+ .text.delayMicroseconds
+                0x00000000        0x2 build/default/debug/_ext/1360937237/Segment.o
+ .text.constrain
+                0x00000000       0x14 build/default/debug/_ext/1360937237/Segment.o
+ .text.setBrightness
+                0x00000000       0x34 build/default/debug/_ext/1360937237/Segment.o
+ .text.setSegments
+                0x00000000       0x24 build/default/debug/_ext/1360937237/Segment.o
+ .text.setSegmentsDigit
+                0x00000000       0x18 build/default/debug/_ext/1360937237/Segment.o
+ .text.getSegments
+                0x00000000       0x28 build/default/debug/_ext/1360937237/Segment.o
+ .text.strrev   0x00000000       0x2c build/default/debug/_ext/1360937237/Segment.o
+ .text.findDigits
+                0x00000000       0xfc build/default/debug/_ext/1360937237/Segment.o
+ .text.setDigitCodes
+                0x00000000       0x54 build/default/debug/_ext/1360937237/Segment.o
+ .text.setNewNum
+                0x00000000       0x18 build/default/debug/_ext/1360937237/Segment.o
+ .text.setNumber
+                0x00000000        0x8 build/default/debug/_ext/1360937237/Segment.o
+ .text.setNumberF
+                0x00000000       0x78 build/default/debug/_ext/1360937237/Segment.o
+ .rodata.alphaCodes
+                0x00000000        0x4 build/default/debug/_ext/1360937237/Segment.o
+ .rodata.numeralCodes
+                0x00000000        0x4 build/default/debug/_ext/1360937237/Segment.o
+ .rodata.powersOf10
+                0x00000000       0x28 build/default/debug/_ext/1360937237/Segment.o
+ .rodata.powersOf16
+                0x00000000       0x20 build/default/debug/_ext/1360937237/Segment.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1360937237/Keypad.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1360937237/Keypad.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1360937237/Keypad.o
+ .text.setKeyDownHandler
+                0x00000000        0xc build/default/debug/_ext/1360937237/Keypad.o
+ .text.setKeyUpHandler
+                0x00000000        0xc build/default/debug/_ext/1360937237/Keypad.o
+ .text.setRowHandlers
+                0x00000000       0x14 build/default/debug/_ext/1360937237/Keypad.o
+ .text.setColumnReadHandler
+                0x00000000        0xc build/default/debug/_ext/1360937237/Keypad.o
+ .text.setDebounceTime
+                0x00000000        0xc build/default/debug/_ext/1360937237/Keypad.o
+ .text.Keypad_Matrix_destruct
+                0x00000000       0x24 build/default/debug/_ext/1360937237/Keypad.o
+ .text.isKeyDown
+                0x00000000       0x58 build/default/debug/_ext/1360937237/Keypad.o
+ .data.enablePullups_
+                0x00000000        0x1 build/default/debug/_ext/1360937237/Keypad.o
+ .rodata.keyDebounceBValue
+                0x00000000        0x1 build/default/debug/_ext/1360937237/Keypad.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1360937237/app.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1360937237/app.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1360937237/app.o
+ .text          0x00000000        0x0 build/default/debug/_ext/1360937237/nvm_app.o
+ .data          0x00000000        0x0 build/default/debug/_ext/1360937237/nvm_app.o
+ .bss           0x00000000        0x0 build/default/debug/_ext/1360937237/nvm_app.o
+ .debug_line    0x00000000        0x0 build/default/debug/_ext/1360937237/nvm_app.o
+ .debug_str     0x00000000        0x0 build/default/debug/_ext/1360937237/nvm_app.o
+ .comment       0x00000000       0x3d build/default/debug/_ext/1360937237/nvm_app.o
+ .ARM.attributes
+                0x00000000       0x32 build/default/debug/_ext/1360937237/nvm_app.o
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .text          0x00000000       0xa8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .debug_line    0x00000000       0xc1 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .debug_info    0x00000000       0xee c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0x74 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .debug_line    0x00000000       0xb1 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .debug_info    0x00000000       0xee c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000      0x2e4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_info    0x00000000      0x556 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_abbrev  0x00000000      0x149 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_loc     0x00000000      0xb1f c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_ranges  0x00000000       0xe8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_line    0x00000000      0x197 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_str     0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(addsf3.o)
+ .text          0x00000000       0x4a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_info    0x00000000      0x3e0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_abbrev  0x00000000      0x128 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_loc     0x00000000       0xb8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_ranges  0x00000000       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_line    0x00000000      0x13e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_str     0x00000000       0x26 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqsf2.o)
+ .text          0x00000000       0x78 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_info    0x00000000      0x404 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_abbrev  0x00000000      0x12a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_loc     0x00000000      0x1ca c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_ranges  0x00000000       0x58 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_line    0x00000000      0x149 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_str     0x00000000       0x26 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gesf2.o)
+ .text          0x00000000       0x76 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_info    0x00000000      0x408 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_abbrev  0x00000000      0x135 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_loc     0x00000000      0x163 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_ranges  0x00000000       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_line    0x00000000      0x147 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_str     0x00000000       0x26 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(lesf2.o)
+ .text          0x00000000      0x1d8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_info    0x00000000      0x5d5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_abbrev  0x00000000      0x13c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_loc     0x00000000      0x791 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_ranges  0x00000000       0x50 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_line    0x00000000      0x15f c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_str     0x00000000       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(mulsf3.o)
+ .text          0x00000000       0x3c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .debug_info    0x00000000      0x39d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .debug_abbrev  0x00000000      0x12e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .debug_loc     0x00000000       0xe7 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .debug_line    0x00000000      0x12a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .debug_str     0x00000000       0x13 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixsfsi.o)
+ .text          0x00000000       0x84 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_info    0x00000000      0x477 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_abbrev  0x00000000      0x12d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_loc     0x00000000      0x180 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_ranges  0x00000000       0x38 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_line    0x00000000      0x132 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_str     0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsisf.o)
+ .text          0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .debug_line    0x00000000       0xa4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .debug_info    0x00000000       0xee c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .text          0x00000000       0x3c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000000       0xb0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .debug_info    0x00000000       0xee c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x12 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_info    0x00000000      0xd79 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00000000      0x1c1 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x00000000       0xde c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_ranges  0x00000000       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00000000      0x21c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_str     0x00000000        0xe c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .text          0x00000000        0xe c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .debug_line    0x00000000       0xb1 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .debug_info    0x00000000      0x112 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x1c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x94 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtend.o
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00008000         xrl
+ram              0x20000000         0x00001000         xw !r
+config_00804000  0x00804000         0x00000004
+config_00804004  0x00804004         0x00000004
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crti.o
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+LOAD build/default/debug/_ext/1984496892/plib_clock.o
+LOAD build/default/debug/_ext/1986646378/plib_evsys.o
+LOAD build/default/debug/_ext/1865468468/plib_nvic.o
+LOAD build/default/debug/_ext/1593096446/plib_nvmctrl.o
+LOAD build/default/debug/_ext/1865521619/plib_port.o
+LOAD build/default/debug/_ext/829342655/plib_tc0.o
+LOAD build/default/debug/_ext/163028504/xc32_monitor.o
+LOAD build/default/debug/_ext/1171490990/initialization.o
+LOAD build/default/debug/_ext/1171490990/interrupts.o
+LOAD build/default/debug/_ext/1171490990/exceptions.o
+LOAD build/default/debug/_ext/1171490990/startup_xc32.o
+LOAD build/default/debug/_ext/1171490990/libc_syscalls.o
+LOAD build/default/debug/_ext/1360937237/main.o
+LOAD build/default/debug/_ext/1360937237/Segment.o
+LOAD build/default/debug/_ext/1360937237/Keypad.o
+LOAD build/default/debug/_ext/1360937237/app.o
+LOAD build/default/debug/_ext/1360937237/nvm_app.o
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00008000                __rom_end = (ORIGIN (rom) + LENGTH (rom))
+                0x20001000                __ram_end = (ORIGIN (ram) + LENGTH (ram))
+
+.config_00804000
+                0x00804000        0x4
+ *(.config_00804000)
+ .config_00804000
+                0x00804000        0x4 build/default/debug/_ext/1171490990/initialization.o
+
+.config_00804004
+                0x00804004        0x4
+ *(.config_00804004)
+ .config_00804004
+                0x00804004        0x4 build/default/debug/_ext/1171490990/initialization.o
+
+.vectors        0x00000000       0xa4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _sfixed = .
+ *(.vectors .vectors.* .vectors_default .vectors_default.*)
+ .vectors       0x00000000       0xa4 build/default/debug/_ext/1171490990/interrupts.o
+                0x00000000                exception_table
+ *(.isr_vector)
+ *(.reset*)
+ *(.after_vectors)
+
+.text           0x000000a4       0x20
+                0x000000a4                . = ALIGN (0x4)
+ *(.glue_7t)
+ .glue_7t       0x000000a4        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x000000a4        0x0 linker stubs
+ *(.gnu.linkonce.r.*)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000a4                . = ALIGN (0x4)
+ *(.init)
+ .init          0x000000a4        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crti.o
+                0x000000a4                _init
+ .init          0x000000a8        0x8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtn.o
+                0x000000b0                . = ALIGN (0x4)
+                0x000000b0                __preinit_array_start = .
+ *(.preinit_array)
+                0x000000b0                __preinit_array_end = .
+                0x000000b0                . = ALIGN (0x4)
+                0x000000b0                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x000000b0        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+                0x000000b4                __init_array_end = .
+                0x000000b4                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x000000b4                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x000000b4        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crti.o
+                0x000000b4                _fini
+ .fini          0x000000b8        0x8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtn.o
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x000000c0        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x000000c4                __fini_array_end = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x000000c4                . = ALIGN (0x4)
+                0x000000c4                _efixed = .
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                PROVIDE (__exidx_end, .)
+                0x000000c4                . = ALIGN (0x4)
+                0x000000c4                _etext = .
+
+.bss            0x20000000       0x60
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_start__ = .
+                0x20000000                _sbss = .
+                0x20000000                _szero = .
+ *(COMMON)
+ COMMON         0x20000000        0x8 build/default/debug/_ext/829342655/plib_tc0.o
+                0x20000000                TC0_CallbackObject
+ COMMON         0x20000008        0x4 build/default/debug/_ext/1360937237/main.o
+                0x20000008                context
+ COMMON         0x2000000c       0x1b build/default/debug/_ext/1360937237/Segment.o
+                0x2000000c                digitOffVal
+                0x2000000d                numDigits
+                0x2000000e                prevUpdateIdx
+                0x2000000f                leadingZeros
+                0x20000010                numSegments
+                0x20000011                segmentOffVal
+                0x20000012                segmentOnVal
+                0x20000013                digitOnVal
+                0x20000014                ledOnTime
+                0x20000016                waitOffActive
+                0x20000017                resOnSegments
+                0x20000018                prevUpdateTime
+                0x2000001c                digitCodes
+                0x20000024                waitOffTime
+                0x20000026                updateWithDelays
+ *fill*         0x20000027        0x1 
+ COMMON         0x20000028       0x2c build/default/debug/_ext/1360937237/Keypad.o
+                0x20000028                keyMapAfterDebounce
+                0x2000002c                lastKeySetting_
+                0x20000030                endRowHandler_
+                0x20000034                keyUpHandler_
+                0x20000038                keyOverallDebounce
+                0x2000003c                debounce_restart
+                0x20000040                lastKeyTime_
+                0x20000044                startRowHandler_
+                0x20000048                readHandler_
+                0x2000004c                keyDownHandler_
+                0x20000050                debounce_Time_
+ COMMON         0x20000054        0x8 build/default/debug/_ext/1360937237/app.o
+                0x20000054                now
+                0x20000058                prev_millis
+ COMMON         0x2000005c        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+                0x2000005c                errno
+                0x20000060                . = ALIGN (0x4)
+                0x20000060                __bss_end__ = .
+                0x20000060                _ebss = .
+                0x20000060                _ezero = .
+                0x20000060                . = ALIGN (0x4)
+                0x20000060                _end = .
+                0x20000fff                _ram_end_ = ((ORIGIN (ram) + LENGTH (ram)) - 0x1)
+                0x00000001                __ICD2RAM = 0x1
+                0x00000001                __MPLAB_DEBUG = 0x1
+                0x00000001                __DEBUG = 0x1
+                0x00000200                _min_heap_size = 0x200
+START GROUP
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc.a
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libm.a
+END GROUP
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtend.o
+LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtn.o
+OUTPUT(dist/default/debug/MyTestProjects.X.debug.elf elf32-littlearm)
+LOAD stack
+LOAD data_init
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x32 build/default/debug/_ext/1984496892/plib_clock.o
+ .ARM.attributes
+                0x0000007c       0x32 build/default/debug/_ext/1986646378/plib_evsys.o
+ .ARM.attributes
+                0x000000ae       0x32 build/default/debug/_ext/1865468468/plib_nvic.o
+ .ARM.attributes
+                0x000000e0       0x32 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .ARM.attributes
+                0x00000112       0x32 build/default/debug/_ext/1865521619/plib_port.o
+ .ARM.attributes
+                0x00000144       0x32 build/default/debug/_ext/829342655/plib_tc0.o
+ .ARM.attributes
+                0x00000176       0x32 build/default/debug/_ext/1171490990/initialization.o
+ .ARM.attributes
+                0x000001a8       0x32 build/default/debug/_ext/1171490990/interrupts.o
+ .ARM.attributes
+                0x000001da       0x32 build/default/debug/_ext/1171490990/exceptions.o
+ .ARM.attributes
+                0x0000020c       0x32 build/default/debug/_ext/1171490990/startup_xc32.o
+ .ARM.attributes
+                0x0000023e       0x32 build/default/debug/_ext/1360937237/main.o
+ .ARM.attributes
+                0x00000270       0x32 build/default/debug/_ext/1360937237/Segment.o
+ .ARM.attributes
+                0x000002a2       0x32 build/default/debug/_ext/1360937237/Keypad.o
+ .ARM.attributes
+                0x000002d4       0x32 build/default/debug/_ext/1360937237/app.o
+ .ARM.attributes
+                0x00000306       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .ARM.attributes
+                0x00000332       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000350       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000036e       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .ARM.attributes
+                0x0000039a       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000003c6       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000003f2       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000041e       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x0000044a       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000476       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000004a2       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004ce       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000004fa       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000526       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000552       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000057e       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+ .ARM.attributes
+                0x000005aa       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtn.o
+
+.comment        0x00000000       0x3c
+ .comment       0x00000000       0x3c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+                                 0x3d (size before relaxing)
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1984496892/plib_clock.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1986646378/plib_evsys.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1865468468/plib_nvic.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1865521619/plib_port.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/829342655/plib_tc0.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1171490990/initialization.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1171490990/interrupts.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1171490990/exceptions.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1171490990/startup_xc32.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1360937237/main.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1360937237/Segment.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1360937237/Keypad.o
+ .comment       0x0000003c       0x3d build/default/debug/_ext/1360937237/app.o
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .comment       0x0000003c       0x3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.debug_info     0x00000000    0x16d4b
+ .debug_info    0x00000000      0x956 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_info    0x00000956      0x2c9 build/default/debug/_ext/1986646378/plib_evsys.o
+ .debug_info    0x00000c1f      0x8ee build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_info    0x0000150d     0x126e build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_info    0x0000277b      0xb2c build/default/debug/_ext/1865521619/plib_port.o
+ .debug_info    0x000032a7      0xb97 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_info    0x00003e3e      0x579 build/default/debug/_ext/1171490990/initialization.o
+ .debug_info    0x000043b7      0x794 build/default/debug/_ext/1171490990/interrupts.o
+ .debug_info    0x00004b4b      0x2e3 build/default/debug/_ext/1171490990/exceptions.o
+ .debug_info    0x00004e2e      0x45b build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_info    0x00005289     0x12c1 build/default/debug/_ext/1360937237/main.o
+ .debug_info    0x0000654a     0x210c build/default/debug/_ext/1360937237/Segment.o
+ .debug_info    0x00008656     0x1bcc build/default/debug/_ext/1360937237/Keypad.o
+ .debug_info    0x0000a222     0x164d build/default/debug/_ext/1360937237/app.o
+ .debug_info    0x0000b86f      0x1f0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_info    0x0000ba5f       0xee c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .debug_info    0x0000bb4d       0xee c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000bc3b      0xd66 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_info    0x0000c9a1     0x1159 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_info    0x0000dafa      0xd02 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .debug_info    0x0000e7fc      0x354 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_info    0x0000eb50      0xda5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_info    0x0000f8f5     0x13f6 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_info    0x00010ceb      0xd5a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_info    0x00011a45     0x14a9 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_info    0x00012eee      0xd3f c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .debug_info    0x00013c2d      0xdf2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_info    0x00014a1f     0x12b8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_info    0x00015cd7      0xea1 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .debug_info    0x00016b78      0x1d3 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.debug_abbrev   0x00000000     0x2f56
+ .debug_abbrev  0x00000000      0x119 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_abbrev  0x00000119       0x39 build/default/debug/_ext/1986646378/plib_evsys.o
+ .debug_abbrev  0x00000152      0x1ae build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_abbrev  0x00000300      0x261 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_abbrev  0x00000561      0x1bd build/default/debug/_ext/1865521619/plib_port.o
+ .debug_abbrev  0x0000071e      0x1b8 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_abbrev  0x000008d6       0xc9 build/default/debug/_ext/1171490990/initialization.o
+ .debug_abbrev  0x0000099f       0x9a build/default/debug/_ext/1171490990/interrupts.o
+ .debug_abbrev  0x00000a39       0x3c build/default/debug/_ext/1171490990/exceptions.o
+ .debug_abbrev  0x00000a75      0x10b build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_abbrev  0x00000b80      0x276 build/default/debug/_ext/1360937237/main.o
+ .debug_abbrev  0x00000df6      0x45e build/default/debug/_ext/1360937237/Segment.o
+ .debug_abbrev  0x00001254      0x42f build/default/debug/_ext/1360937237/Keypad.o
+ .debug_abbrev  0x00001683      0x26b build/default/debug/_ext/1360937237/app.o
+ .debug_abbrev  0x000018ee       0x2a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_abbrev  0x00001918       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000192c       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00001940      0x1c9 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_abbrev  0x00001b09      0x203 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_abbrev  0x00001d0c      0x176 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .debug_abbrev  0x00001e82       0xa3 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_abbrev  0x00001f25      0x1f5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000211a      0x29b c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_abbrev  0x000023b5      0x1b2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00002567      0x1b5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_abbrev  0x0000271c      0x1aa c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .debug_abbrev  0x000028c6      0x1ed c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00002ab3      0x23f c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_abbrev  0x00002cf2      0x23a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .debug_abbrev  0x00002f2c       0x2a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.debug_loc      0x00000000     0x3108
+ .debug_loc     0x00000000       0x78 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_loc     0x00000078       0x53 build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_loc     0x000000cb      0x1f6 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_loc     0x000002c1      0x1ce build/default/debug/_ext/1865521619/plib_port.o
+ .debug_loc     0x0000048f       0x54 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_loc     0x000004e3       0x41 build/default/debug/_ext/1171490990/initialization.o
+ .debug_loc     0x00000524       0x20 build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_loc     0x00000544       0xd9 build/default/debug/_ext/1360937237/main.o
+ .debug_loc     0x0000061d     0x1128 build/default/debug/_ext/1360937237/Segment.o
+ .debug_loc     0x00001745      0x55b build/default/debug/_ext/1360937237/Keypad.o
+ .debug_loc     0x00001ca0       0xdf build/default/debug/_ext/1360937237/app.o
+ .debug_loc     0x00001d7f       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_loc     0x00001d93       0x78 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_loc     0x00001e0b      0x205 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_loc     0x00002010       0x72 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_loc     0x00002082       0x98 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_loc     0x0000211a      0x858 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_loc     0x00002972      0x158 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_loc     0x00002aca       0x72 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_loc     0x00002b3c       0x6d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_loc     0x00002ba9      0x423 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_loc     0x00002fcc      0x13c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+
+.debug_aranges  0x00000000      0x650
+ .debug_aranges
+                0x00000000       0x20 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_aranges
+                0x00000020       0x20 build/default/debug/_ext/1986646378/plib_evsys.o
+ .debug_aranges
+                0x00000040       0x38 build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_aranges
+                0x00000078       0x60 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_aranges
+                0x000000d8       0x70 build/default/debug/_ext/1865521619/plib_port.o
+ .debug_aranges
+                0x00000148       0x70 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_aranges
+                0x000001b8       0x20 build/default/debug/_ext/1171490990/initialization.o
+ .debug_aranges
+                0x000001d8       0x20 build/default/debug/_ext/1171490990/interrupts.o
+ .debug_aranges
+                0x000001f8       0x28 build/default/debug/_ext/1171490990/exceptions.o
+ .debug_aranges
+                0x00000220       0x28 build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_aranges
+                0x00000248       0x38 build/default/debug/_ext/1360937237/main.o
+ .debug_aranges
+                0x00000280       0xd8 build/default/debug/_ext/1360937237/Segment.o
+ .debug_aranges
+                0x00000358       0xa0 build/default/debug/_ext/1360937237/Keypad.o
+ .debug_aranges
+                0x000003f8       0x48 build/default/debug/_ext/1360937237/app.o
+ .debug_aranges
+                0x00000440       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_aranges
+                0x00000460       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000480       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x000004a0       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_aranges
+                0x000004c0       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_aranges
+                0x000004e0       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x000004f8       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_aranges
+                0x00000518       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_aranges
+                0x00000540       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x00000560       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x00000580       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x000005a0       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .debug_aranges
+                0x000005c0       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x000005e0       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000608       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .debug_aranges
+                0x00000630       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.debug_ranges   0x00000000      0x560
+ .debug_ranges  0x00000000       0x28 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_ranges  0x00000028       0x10 build/default/debug/_ext/1986646378/plib_evsys.o
+ .debug_ranges  0x00000038       0x28 build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_ranges  0x00000060       0x50 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_ranges  0x000000b0       0x60 build/default/debug/_ext/1865521619/plib_port.o
+ .debug_ranges  0x00000110       0x60 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_ranges  0x00000170       0x10 build/default/debug/_ext/1171490990/initialization.o
+ .debug_ranges  0x00000180       0x10 build/default/debug/_ext/1171490990/interrupts.o
+ .debug_ranges  0x00000190       0x18 build/default/debug/_ext/1171490990/exceptions.o
+ .debug_ranges  0x000001a8       0x18 build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_ranges  0x000001c0       0x28 build/default/debug/_ext/1360937237/main.o
+ .debug_ranges  0x000001e8       0xf8 build/default/debug/_ext/1360937237/Segment.o
+ .debug_ranges  0x000002e0       0xe8 build/default/debug/_ext/1360937237/Keypad.o
+ .debug_ranges  0x000003c8       0x38 build/default/debug/_ext/1360937237/app.o
+ .debug_ranges  0x00000400       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_ranges  0x00000410       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_ranges  0x00000420       0x40 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_ranges  0x00000460       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_ranges  0x00000470       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_ranges  0x00000488       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_ranges  0x000004b0       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_ranges  0x000004c0       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_ranges  0x000004d0       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .debug_ranges  0x000004e0       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_ranges  0x000004f0       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_ranges  0x00000508       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .debug_ranges  0x00000550       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.debug_line     0x00000000     0x39d4
+ .debug_line    0x00000000      0x177 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_line    0x00000177       0x64 build/default/debug/_ext/1986646378/plib_evsys.o
+ .debug_line    0x000001db      0x206 build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_line    0x000003e1      0x267 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_line    0x00000648      0x20c build/default/debug/_ext/1865521619/plib_port.o
+ .debug_line    0x00000854      0x224 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_line    0x00000a78      0x27c build/default/debug/_ext/1171490990/initialization.o
+ .debug_line    0x00000cf4      0x10a build/default/debug/_ext/1171490990/interrupts.o
+ .debug_line    0x00000dfe       0x64 build/default/debug/_ext/1171490990/exceptions.o
+ .debug_line    0x00000e62      0x195 build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_line    0x00000ff7      0x279 build/default/debug/_ext/1360937237/main.o
+ .debug_line    0x00001270      0x503 build/default/debug/_ext/1360937237/Segment.o
+ .debug_line    0x00001773      0x3ea build/default/debug/_ext/1360937237/Keypad.o
+ .debug_line    0x00001b5d      0x2ac build/default/debug/_ext/1360937237/app.o
+ .debug_line    0x00001e09       0xe3 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_line    0x00001eec       0xb3 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .debug_line    0x00001f9f       0x9c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000203b      0x203 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_line    0x0000223e      0x1bd c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_line    0x000023fb      0x17e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .debug_line    0x00002579      0x118 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_line    0x00002691      0x224 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_line    0x000028b5      0x34d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_line    0x00002c02      0x20a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_line    0x00002e0c      0x2ad c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_line    0x000030b9      0x18e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .debug_line    0x00003247      0x214 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_line    0x0000345b      0x29d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_line    0x000036f8      0x238 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .debug_line    0x00003930       0xa4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.debug_str      0x00000000      0x55c
+ .debug_str     0x00000000       0x28 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_str     0x00000028        0x0 build/default/debug/_ext/1986646378/plib_evsys.o
+ .debug_str     0x00000028        0xa build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_str     0x00000032       0x1f build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_str     0x00000051        0xb build/default/debug/_ext/1865521619/plib_port.o
+ .debug_str     0x0000005c       0xa7 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_str     0x00000103       0x69 build/default/debug/_ext/1171490990/initialization.o
+ .debug_str     0x0000016c        0x0 build/default/debug/_ext/1171490990/interrupts.o
+ .debug_str     0x0000016c        0x0 build/default/debug/_ext/1171490990/exceptions.o
+ .debug_str     0x0000016c       0x2f build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_str     0x0000019b       0x94 build/default/debug/_ext/1360937237/main.o
+ .debug_str     0x0000022f       0x83 build/default/debug/_ext/1360937237/Segment.o
+ .debug_str     0x000002b2       0x75 build/default/debug/_ext/1360937237/Keypad.o
+ .debug_str     0x00000327       0x22 build/default/debug/_ext/1360937237/app.o
+ .debug_str     0x00000349        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_str     0x00000349       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_str     0x00000361       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_str     0x00000379        0xe c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+ .debug_str     0x00000387        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_str     0x00000387       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_str     0x0000039f       0x36 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_str     0x000003d5        0xe c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_str     0x000003e3      0x119 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_str     0x000004fc        0xe c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .debug_str     0x0000050a        0xe c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_str     0x00000518       0x36 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_str     0x0000054e        0xe c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .debug_str     0x0000055c        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.debug_frame    0x00000000      0xb44
+ .debug_frame   0x00000000       0x20 build/default/debug/_ext/1984496892/plib_clock.o
+ .debug_frame   0x00000020       0x20 build/default/debug/_ext/1986646378/plib_evsys.o
+ .debug_frame   0x00000040       0x50 build/default/debug/_ext/1865468468/plib_nvic.o
+ .debug_frame   0x00000090       0xb4 build/default/debug/_ext/1593096446/plib_nvmctrl.o
+ .debug_frame   0x00000144       0xcc build/default/debug/_ext/1865521619/plib_port.o
+ .debug_frame   0x00000210       0xc8 build/default/debug/_ext/829342655/plib_tc0.o
+ .debug_frame   0x000002d8       0x28 build/default/debug/_ext/1171490990/initialization.o
+ .debug_frame   0x00000300       0x20 build/default/debug/_ext/1171490990/interrupts.o
+ .debug_frame   0x00000320       0x30 build/default/debug/_ext/1171490990/exceptions.o
+ .debug_frame   0x00000350       0x38 build/default/debug/_ext/1171490990/startup_xc32.o
+ .debug_frame   0x00000388       0x64 build/default/debug/_ext/1360937237/main.o
+ .debug_frame   0x000003ec      0x290 build/default/debug/_ext/1360937237/Segment.o
+ .debug_frame   0x0000067c      0x198 build/default/debug/_ext/1360937237/Keypad.o
+ .debug_frame   0x00000814       0x94 build/default/debug/_ext/1360937237/app.o
+ .debug_frame   0x000008a8       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_frame   0x000008d4       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000008f4       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+ .debug_frame   0x0000091c       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+ .debug_frame   0x00000944       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+ .debug_frame   0x00000970       0x40 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+ .debug_frame   0x000009b0       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x000009e0       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+ .debug_frame   0x00000a0c       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000a2c       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+ .debug_frame   0x00000a5c       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000a88       0x54 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+ .debug_frame   0x00000adc       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-reent.o)
+ .debug_frame   0x00000b24       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.stack          0x20000b20      0x100
+ .stack         0x20000b20      0x100 stack
+
+.data.impure_data%1
+                0x20000060      0x418
+ .data.impure_data
+                0x20000060      0x418 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+
+.data.__malloc_av_%2
+                0x20000478      0x408
+ .data.__malloc_av_
+                0x20000478      0x408 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x20000478                __malloc_av_
+
+.bss.__malloc_current_mallinfo%3
+                0x20000880       0x28
+ .bss.__malloc_current_mallinfo
+                0x20000880       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x20000880                __malloc_current_mallinfo
+
+.bss%4          0x200008a8       0x1c
+ .bss           0x200008a8       0x1c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+
+.data.digitPins%5
+                0x200008c4        0x8
+ .data.digitPins
+                0x200008c4        0x8 build/default/debug/_ext/1360937237/Segment.o
+                0x200008c4                digitPins
+
+.data.segmentPins%6
+                0x200008cc        0x8
+ .data.segmentPins
+                0x200008cc        0x8 build/default/debug/_ext/1360937237/Segment.o
+                0x200008cc                segmentPins
+
+.data.ip_string%7
+                0x200008d4        0x5
+ .data.ip_string
+                0x200008d4        0x5 build/default/debug/_ext/1360937237/app.o
+                0x200008d4                ip_string
+
+.bss.millicounter%8
+                0x200008dc        0x4
+ .bss.millicounter
+                0x200008dc        0x4 build/default/debug/_ext/1360937237/main.o
+                0x200008dc                millicounter
+
+.data.keySt%9   0x200008e0        0x4
+ .data.keySt    0x200008e0        0x4 build/default/debug/_ext/1360937237/Keypad.o
+                0x200008e0                keySt
+
+.data._impure_ptr%10
+                0x200008e4        0x4
+ .data._impure_ptr
+                0x200008e4        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-impure.o)
+                0x200008e4                _impure_ptr
+
+.bss.__malloc_max_sbrked_mem%11
+                0x200008e8        0x4
+ .bss.__malloc_max_sbrked_mem
+                0x200008e8        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x200008e8                __malloc_max_sbrked_mem
+
+.bss.__malloc_max_total_mem%12
+                0x200008ec        0x4
+ .bss.__malloc_max_total_mem
+                0x200008ec        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x200008ec                __malloc_max_total_mem
+
+.bss.__malloc_top_pad%13
+                0x200008f0        0x4
+ .bss.__malloc_top_pad
+                0x200008f0        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x200008f0                __malloc_top_pad
+
+.data.__malloc_sbrk_base%14
+                0x200008f4        0x4
+ .data.__malloc_sbrk_base
+                0x200008f4        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x200008f4                __malloc_sbrk_base
+
+.data.__malloc_trim_threshold%15
+                0x200008f8        0x4
+ .data.__malloc_trim_threshold
+                0x200008f8        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x200008f8                __malloc_trim_threshold
+
+.bss%16         0x200008fc        0x4
+ .bss           0x200008fc        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+
+.bss.task_20ms%17
+                0x200008d9        0x1
+ .bss.task_20ms
+                0x200008d9        0x1 build/default/debug/_ext/1360937237/main.o
+                0x200008d9                task_20ms
+
+.bss.task_5ms%18
+                0x200008da        0x1
+ .bss.task_5ms  0x200008da        0x1 build/default/debug/_ext/1360937237/main.o
+                0x200008da                task_5ms
+
+.data.numCols_%19
+                0x200008db        0x1
+ .data.numCols_
+                0x200008db        0x1 build/default/debug/_ext/1360937237/Keypad.o
+                0x200008db                numCols_
+
+.data.numRows_%20
+                0x20000900        0x1
+ .data.numRows_
+                0x20000900        0x1 build/default/debug/_ext/1360937237/Keypad.o
+                0x20000900                numRows_
+
+.data.totalKeys_%21
+                0x20000901        0x1
+ .data.totalKeys_
+                0x20000901        0x1 build/default/debug/_ext/1360937237/Keypad.o
+                0x20000901                totalKeys_
+
+.bss.edit_position%22
+                0x20000902        0x1
+ .bss.edit_position
+                0x20000902        0x1 build/default/debug/_ext/1360937237/app.o
+                0x20000902                edit_position
+
+.bss.max_digits_enter%23
+                0x20000903        0x1
+ .bss.max_digits_enter
+                0x20000903        0x1 build/default/debug/_ext/1360937237/app.o
+                0x20000903                max_digits_enter
+
+.bss.parent%24  0x20000904        0x1
+ .bss.parent    0x20000904        0x1 build/default/debug/_ext/1360937237/app.o
+                0x20000904                parent
+
+.bss.state%25   0x20000905        0x1
+ .bss.state     0x20000905        0x1 build/default/debug/_ext/1360937237/app.o
+                0x20000905                state
+
+.bss.substate%26
+                0x20000906        0x1
+ .bss.substate  0x20000906        0x1 build/default/debug/_ext/1360937237/app.o
+                0x20000906                substate
+
+.eh_frame%z1    0x00000000        0x0
+ .eh_frame      0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+
+.dinit%27       0x000000c4      0x9e0
+ .dinit         0x000000c4      0x9e0 data_init
+
+.text._malloc_r%28
+                0x00000aa4      0x3ec
+ .text._malloc_r
+                0x00000aa4      0x3ec c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mallocr.o)
+                0x00000aa4                _malloc_r
+
+.text.Keypad_scan%29
+                0x00000e90      0x250
+ .text.Keypad_scan
+                0x00000e90      0x250 build/default/debug/_ext/1360937237/Keypad.o
+                0x00000e90                Keypad_scan
+
+.text.prog_sm%30
+                0x000010e0      0x220
+ .text.prog_sm  0x000010e0      0x220 build/default/debug/_ext/1360937237/app.o
+                0x000010e0                prog_sm
+
+.text._free_r%31
+                0x00001300      0x168
+ .text._free_r  0x00001300      0x168 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+                0x00001300                _free_r
+
+.text.begin%32  0x00001468      0x15c
+ .text.begin    0x00001468      0x15c build/default/debug/_ext/1360937237/Segment.o
+                0x00001468                begin
+
+.text.refreshDisplay%33
+                0x000015c4      0x14c
+ .text.refreshDisplay
+                0x000015c4      0x14c build/default/debug/_ext/1360937237/Segment.o
+                0x000015c4                refreshDisplay
+
+.text.setChars%34
+                0x00001710       0xf4
+ .text.setChars
+                0x00001710       0xf4 build/default/debug/_ext/1360937237/Segment.o
+                0x00001710                setChars
+
+.text.CLOCK_Initialize%35
+                0x00001804       0xec
+ .text.CLOCK_Initialize
+                0x00001804       0xec build/default/debug/_ext/1984496892/plib_clock.o
+                0x00001804                CLOCK_Initialize
+
+.text.DigitWrite%36
+                0x000018f0       0xd0
+ .text.DigitWrite
+                0x000018f0       0xd0 build/default/debug/_ext/1360937237/Segment.o
+                0x000018f0                DigitWrite
+
+.text.event_receiver%37
+                0x000019c0       0x94
+ .text.event_receiver
+                0x000019c0       0x94 build/default/debug/_ext/1360937237/app.o
+                0x000019c0                event_receiver
+
+.text._malloc_trim_r%38
+                0x00001a54       0x94
+ .text._malloc_trim_r
+                0x00001a54       0x94 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-freer.o)
+                0x00001a54                _malloc_trim_r
+
+.text.run_sm%39
+                0x00001ae8       0x90
+ .text.run_sm   0x00001ae8       0x90 build/default/debug/_ext/1360937237/app.o
+                0x00001ae8                run_sm
+
+.text.__pic32c_data_initialization%40
+                0x00001b78       0x90
+ .text.__pic32c_data_initialization
+                0x00001b78       0x90 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+                0x00001b78                __pic32c_data_initialization
+
+.text.Keypad_Matrix_construct%41
+                0x00001c08       0x8c
+ .text.Keypad_Matrix_construct
+                0x00001c08       0x8c build/default/debug/_ext/1360937237/Keypad.o
+                0x00001c08                Keypad_Matrix_construct
+
+.text%42        0x00001c94       0x8c
+ .text          0x00001c94       0x8c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+                0x00001c94                __aeabi_uidiv
+                0x00001c94                __udivsi3
+                0x00001d0c                __aeabi_uidivmod
+
+.text.keyPressHandler%43
+                0x00001d20       0x80
+ .text.keyPressHandler
+                0x00001d20       0x80 build/default/debug/_ext/1360937237/Keypad.o
+                0x00001d20                keyPressHandler
+
+.text.SevSeg_init%44
+                0x00001da0       0x78
+ .text.SevSeg_init
+                0x00001da0       0x78 build/default/debug/_ext/1360937237/Segment.o
+                0x00001da0                SevSeg_init
+
+.text.keyReleaseHandler%45
+                0x00001e18       0x6c
+ .text.keyReleaseHandler
+                0x00001e18       0x6c build/default/debug/_ext/1360937237/Keypad.o
+                0x00001e18                keyReleaseHandler
+
+.text.keyFunctionHandler%46
+                0x00001e84       0x64
+ .text.keyFunctionHandler
+                0x00001e84       0x64 build/default/debug/_ext/1360937237/Keypad.o
+                0x00001e84                keyFunctionHandler
+
+.text.keyDebounceMgr%47
+                0x00001ee8       0x64
+ .text.keyDebounceMgr
+                0x00001ee8       0x64 build/default/debug/_ext/1360937237/Keypad.o
+                0x00001ee8                keyDebounceMgr
+
+.text.main%48   0x00001f4c       0x60
+ .text.main     0x00001f4c       0x60 build/default/debug/_ext/1360937237/main.o
+                0x00001f4c                main
+
+.text.segmentOn%49
+                0x00001fac       0x5c
+ .text.segmentOn
+                0x00001fac       0x5c build/default/debug/_ext/1360937237/Segment.o
+                0x00001fac                segmentOn
+
+.text.digitOn%50
+                0x00002008       0x5c
+ .text.digitOn  0x00002008       0x5c build/default/debug/_ext/1360937237/Segment.o
+                0x00002008                digitOn
+
+.text._calloc_r%51
+                0x00002064       0x58
+ .text._calloc_r
+                0x00002064       0x58 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-callocr.o)
+                0x00002064                _calloc_r
+
+.text%52        0x000020bc       0x48
+ .text          0x000020bc       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/crtbegin.o
+
+.text.Reset_Handler%53
+                0x00002104       0x48
+ .text.Reset_Handler
+                0x00002104       0x48 build/default/debug/_ext/1171490990/startup_xc32.o
+                0x00002104                Reset_Handler
+
+.text.Keypad_begin%54
+                0x0000214c       0x48
+ .text.Keypad_begin
+                0x0000214c       0x48 build/default/debug/_ext/1360937237/Keypad.o
+                0x0000214c                Keypad_begin
+
+.text.__libc_init_array%55
+                0x00002194       0x48
+ .text.__libc_init_array
+                0x00002194       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-init.o)
+                0x00002194                __libc_init_array
+
+.text.TC0_TimerInitialize%56
+                0x000021dc       0x40
+ .text.TC0_TimerInitialize
+                0x000021dc       0x40 build/default/debug/_ext/829342655/plib_tc0.o
+                0x000021dc                TC0_TimerInitialize
+
+.text.timer_1ms_cb%57
+                0x0000221c       0x40
+ .text.timer_1ms_cb
+                0x0000221c       0x40 build/default/debug/_ext/1360937237/main.o
+                0x0000221c                timer_1ms_cb
+
+.text.digitOff%58
+                0x0000225c       0x40
+ .text.digitOff
+                0x0000225c       0x40 build/default/debug/_ext/1360937237/Segment.o
+                0x0000225c                digitOff
+
+.text.PinWrite%59
+                0x0000229c       0x3c
+ .text.PinWrite
+                0x0000229c       0x3c build/default/debug/_ext/1360937237/Segment.o
+                0x0000229c                PinWrite
+
+.rodata%60      0x000022d8       0x38
+ .rodata        0x000022d8       0x38 build/default/debug/_ext/1360937237/app.o
+
+.text.blank%61  0x00002310       0x34
+ .text.blank    0x00002310       0x34 build/default/debug/_ext/1360937237/Segment.o
+                0x00002310                blank
+
+.text._sbrk%62  0x00002344       0x30
+ .text._sbrk    0x00002344       0x30 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+                0x00002344                _sbrk
+
+.text.NVIC_Initialize%63
+                0x00002374       0x2c
+ .text.NVIC_Initialize
+                0x00002374       0x2c build/default/debug/_ext/1865468468/plib_nvic.o
+                0x00002374                NVIC_Initialize
+
+.text.PORT_Initialize%64
+                0x000023a0       0x2c
+ .text.PORT_Initialize
+                0x000023a0       0x2c build/default/debug/_ext/1865521619/plib_port.o
+                0x000023a0                PORT_Initialize
+
+.rodata.digitCodeMap%65
+                0x000023cc       0x2c
+ .rodata.digitCodeMap
+                0x000023cc       0x2c build/default/debug/_ext/1360937237/Segment.o
+
+.text.startRow%66
+                0x000023f8       0x2c
+ .text.startRow
+                0x000023f8       0x2c build/default/debug/_ext/1360937237/Keypad.o
+                0x000023f8                startRow
+
+.text.update_edit_position%67
+                0x00002424       0x2c
+ .text.update_edit_position
+                0x00002424       0x2c build/default/debug/_ext/1360937237/app.o
+                0x00002424                update_edit_position
+
+.text.SYS_Initialize%68
+                0x00002450       0x28
+ .text.SYS_Initialize
+                0x00002450       0x28 build/default/debug/_ext/1171490990/initialization.o
+                0x00002450                SYS_Initialize
+
+.text.segmentOff%69
+                0x00002478       0x28
+ .text.segmentOff
+                0x00002478       0x28 build/default/debug/_ext/1360937237/Segment.o
+                0x00002478                segmentOff
+
+.text.update_ip_string_position%70
+                0x000024a0       0x28
+ .text.update_ip_string_position
+                0x000024a0       0x28 build/default/debug/_ext/1360937237/app.o
+                0x000024a0                update_ip_string_position
+
+.text.TC0_TimerInterruptHandler%71
+                0x000024c8       0x24
+ .text.TC0_TimerInterruptHandler
+                0x000024c8       0x24 build/default/debug/_ext/829342655/plib_tc0.o
+                0x000024c8                TC0_TimerInterruptHandler
+
+.text.readPin%72
+                0x000024ec       0x24
+ .text.readPin  0x000024ec       0x24 build/default/debug/_ext/1360937237/Keypad.o
+                0x000024ec                readPin
+
+.rodata.keyFunctionHandler%73
+                0x00002510       0x24
+ .rodata.keyFunctionHandler
+                0x00002510       0x24 build/default/debug/_ext/1360937237/Keypad.o
+
+.text._sbrk_r%74
+                0x00002534       0x24
+ .text._sbrk_r  0x00002534       0x24 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-sbrkr.o)
+                0x00002534                _sbrk_r
+
+.text.endRow%75
+                0x00002558       0x20
+ .text.endRow   0x00002558       0x20 build/default/debug/_ext/1360937237/Keypad.o
+                0x00002558                endRow
+
+.text.sm%76     0x00002578       0x20
+ .text.sm       0x00002578       0x20 build/default/debug/_ext/1360937237/app.o
+                0x00002578                sm
+
+.text.memcmp%77
+                0x00002598       0x1e
+ .text.memcmp   0x00002598       0x1e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memcmp.o)
+                0x00002598                memcmp
+
+.text.TC0_TimerStart%78
+                0x000025b8       0x18
+ .text.TC0_TimerStart
+                0x000025b8       0x18 build/default/debug/_ext/829342655/plib_tc0.o
+                0x000025b8                TC0_TimerStart
+
+.rodata.DigitWrite%79
+                0x000025d0       0x14
+ .rodata.DigitWrite
+                0x000025d0       0x14 build/default/debug/_ext/1360937237/Segment.o
+
+.text.calloc%80
+                0x000025e4       0x14
+ .text.calloc   0x000025e4       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-calloc.o)
+                0x000025e4                calloc
+
+.text.free%81   0x000025f8       0x14
+ .text.free     0x000025f8       0x14 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-malloc.o)
+                0x000025f8                free
+
+.text.elapsed_ms%82
+                0x0000260c       0x10
+ .text.elapsed_ms
+                0x0000260c       0x10 build/default/debug/_ext/1360937237/main.o
+                0x0000260c                elapsed_ms
+
+.text.memset%83
+                0x0000261c       0x10
+ .text.memset   0x0000261c       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-memset.o)
+                0x0000261c                memset
+
+.text.NVMCTRL_Initialize%84
+                0x0000262c        0xc
+ .text.NVMCTRL_Initialize
+                0x0000262c        0xc build/default/debug/_ext/1593096446/plib_nvmctrl.o
+                0x0000262c                NVMCTRL_Initialize
+
+.text.TC0_TimerCallbackRegister%85
+                0x00002638        0xc
+ .text.TC0_TimerCallbackRegister
+                0x00002638        0xc build/default/debug/_ext/829342655/plib_tc0.o
+                0x00002638                TC0_TimerCallbackRegister
+
+.text.millis%86
+                0x00002644        0xc
+ .text.millis   0x00002644        0xc build/default/debug/_ext/1360937237/main.o
+                0x00002644                millis
+
+.rodata.default_pwd%87
+                0x00002650        0x8
+ .rodata.default_pwd
+                0x00002650        0x8 build/default/debug/_ext/1360937237/main.o
+                0x00002650                default_pwd
+
+.text.PORT_GroupRead%88
+                0x00002658        0x4
+ .text.PORT_GroupRead
+                0x00002658        0x4 build/default/debug/_ext/1865521619/plib_port.o
+                0x00002658                PORT_GroupRead
+
+.text.PORT_GroupSet%89
+                0x0000265c        0x4
+ .text.PORT_GroupSet
+                0x0000265c        0x4 build/default/debug/_ext/1865521619/plib_port.o
+                0x0000265c                PORT_GroupSet
+
+.text.PORT_GroupClear%90
+                0x00002660        0x4
+ .text.PORT_GroupClear
+                0x00002660        0x4 build/default/debug/_ext/1865521619/plib_port.o
+                0x00002660                PORT_GroupClear
+
+.text.PORT_GroupInputEnable%91
+                0x00002664        0x4
+ .text.PORT_GroupInputEnable
+                0x00002664        0x4 build/default/debug/_ext/1865521619/plib_port.o
+                0x00002664                PORT_GroupInputEnable
+
+.text.PORT_GroupOutputEnable%92
+                0x00002668        0x4
+ .text.PORT_GroupOutputEnable
+                0x00002668        0x4 build/default/debug/_ext/1865521619/plib_port.o
+                0x00002668                PORT_GroupOutputEnable
+
+.text.NonMaskableInt_Handler%93
+                0x0000266c        0x4
+ .text.NonMaskableInt_Handler
+                0x0000266c        0x4 build/default/debug/_ext/1171490990/exceptions.o
+                0x0000266c                NonMaskableInt_Handler
+
+.text.HardFault_Handler%94
+                0x00002670        0x4
+ .text.HardFault_Handler
+                0x00002670        0x4 build/default/debug/_ext/1171490990/exceptions.o
+                0x00002670                HardFault_Handler
+
+.rodata.colPins_%95
+                0x00002674        0x4
+ .rodata.colPins_
+                0x00002674        0x4 build/default/debug/_ext/1360937237/Keypad.o
+                0x00002674                colPins_
+
+.rodata.keyMap_%96
+                0x00002678        0x4
+ .rodata.keyMap_
+                0x00002678        0x4 build/default/debug/_ext/1360937237/Keypad.o
+                0x00002678                keyMap_
+
+.rodata.rowPins_%97
+                0x0000267c        0x4
+ .rodata.rowPins_
+                0x0000267c        0x4 build/default/debug/_ext/1360937237/Keypad.o
+                0x0000267c                rowPins_
+
+.text%98        0x00002680        0x4
+ .text          0x00002680        0x4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+                0x00002680                __aeabi_idiv0
+                0x00002680                __aeabi_ldiv0
+
+.text.EVSYS_Initialize%99
+                0x000025b6        0x2
+ .text.EVSYS_Initialize
+                0x000025b6        0x2 build/default/debug/_ext/1986646378/plib_evsys.o
+                0x000025b6                EVSYS_Initialize
+
+.text.Dummy_Handler%100
+                0x00002684        0x2
+ .text.Dummy_Handler
+                0x00002684        0x2 build/default/debug/_ext/1171490990/interrupts.o
+                0x00002684                SVCall_Handler
+                0x00002684                TC2_Handler
+                0x00002684                AC_Handler
+                0x00002684                SysTick_Handler
+                0x00002684                PendSV_Handler
+                0x00002684                SERCOM1_Handler
+                0x00002684                ADC_Handler
+                0x00002684                SERCOM2_Handler
+                0x00002684                RTC_Handler
+                0x00002684                EIC_Handler
+                0x00002684                WDT_Handler
+                0x00002684                TC4_Handler
+                0x00002684                TC1_Handler
+                0x00002684                TC3_Handler
+                0x00002684                Dummy_Handler
+                0x00002684                PM_Handler
+                0x00002684                EVSYS_Handler
+                0x00002684                SERCOM3_Handler
+                0x00002684                NVMCTRL_Handler
+                0x00002684                SERCOM0_Handler
+                0x00002684                DAC_Handler
+                0x00002684                PTC_Handler
+                0x00002684                TC5_Handler
+                0x00002684                SYSCTRL_Handler
+
+.text.Dummy_App_Func%101
+                0x00002686        0x2
+ .text.Dummy_App_Func
+                0x00002686        0x2 build/default/debug/_ext/1171490990/startup_xc32.o
+                0x00002686                _on_reset
+                0x00002686                _on_bootstrap
+                0x00002686                __xc32_on_reset
+                0x00002686                Dummy_App_Func
+                0x00002686                __xc32_on_bootstrap
+
+.text.__malloc_lock%102
+                0x00002688        0x2
+ .text.__malloc_lock
+                0x00002688        0x2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+                0x00002688                __malloc_lock
+
+.text.__malloc_unlock%103
+                0x0000268a        0x2
+ .text.__malloc_unlock
+                0x0000268a        0x2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libg.a(lib_a-mlock.o)
+                0x0000268a                __malloc_unlock
