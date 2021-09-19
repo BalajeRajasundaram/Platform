@@ -1,5 +1,6 @@
 #include "definitions.h"
 #define MAXNUMDIGITS 8
+#define NUM_ALPHA_NUMERIC_DIGITS    5
 
 #define COMMON_CATHODE 0
 #define COMMON_ANODE 1
@@ -36,3 +37,5 @@ void digitOn(uint8_t digitNum);
 void digitOff(uint8_t digitNum);
 
 void SevSeg_init();
+
+void show_integers(int i);

@@ -2,6 +2,9 @@
 #include "Segment.h"
 #include "plib_port.h"
 #include <string.h>
+#include "stdlib.h"
+
+#include "app.h"
 
 #define BLANK_IDX 36 // Must match with 'digitCodeMap'
 #define DASH_IDX 37
@@ -86,7 +89,7 @@ static const uint8_t digitCodeMap[] = {
   0b01111000, // 84  't'
   0b00111110, // 85  'U'
   0b00111110, // 86  'V'  Same as 'U'
-  0b00000000, // 87  'W'  NO DISPLAY
+  0b00011101, // 87  'W'  nu
   0b01110110, // 88  'X'  Same as 'H'
   0b01101110, // 89  'y'
   0b01011011, // 90  'Z'  Same as '2'
@@ -562,6 +565,7 @@ char *strrev(char *str)
 void setChars(const char str[]) {
   //char strTemp[8];
   //char *str;
+  
   for (uint8_t digit = 0; digit < numDigits; digit++) {
     digitCodes[digit] = 0;
     //strTemp[digit] = str1[digit];
@@ -684,5 +688,31 @@ void setDigitCodes(const uint8_t digits[], int8_t decPlaces) {
     }
   }
 }
+
+
+
+void show_integers(int i){
+    char a[NUM_ALPHA_NUMERIC_DIGITS] = "     ";
+    uint8_t idx;
+    if(i > 9999){
+        idx = 0;
+    }
+    else if(i > 999){
+        idx = 1;
+    }
+    else if(i > 99){
+        idx = 2;
+    }
+    else if(i > 9){
+        idx = 3;
+    }
+    else {
+        idx = 4;
+    }        
+    itoa(i,&a[idx],10);
+    copy_string(a);
+    setChars(a);
+}
+
 
 /// END ///

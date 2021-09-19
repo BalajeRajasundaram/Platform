@@ -47,11 +47,14 @@ volatile unsigned long millicounter = 0;
 uintptr_t context;
 volatile uint8_t task_20ms = 0;
 volatile uint8_t task_5ms = 0;
+volatile uint8_t task_1ms = 0;
+
 void timer_1ms_cb (TC_TIMER_STATUS status, uintptr_t context)
 {
     (void)status;
     (void)context;
     millicounter++;
+    task_1ms = 1;
     if (millicounter%5 == 0)
         task_5ms = 1;
     if(millicounter%20 == 0)
@@ -86,6 +89,10 @@ int main ( void )
     while ( true )
     {
         refreshDisplay();
+        if(task_1ms){
+            task_1ms = 0;
+            sm_timer_run();
+        }
         if (task_5ms != 0){
             task_5ms = 0;
             Keypad_scan ();
@@ -95,7 +102,7 @@ int main ( void )
             keyDebounceMgr();
         }
         
-        sm();
+        sm_handler();
         
         /* Maintain state machines of all polled MPLAB Harmony modules. */
         SYS_Tasks ( );

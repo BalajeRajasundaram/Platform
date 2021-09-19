@@ -329,26 +329,33 @@ void keyFunctionHandler()
     {
         case (BIT(SHIFT) | BIT(INCREMENT)):
             keyMapAfterDebounce &= ~(BIT(SHIFT) | BIT(INCREMENT));
-            event_receiver (PROGRAM_MODE_ENTER);
+            //event_receiver (PROGRAM_MODE_ENTER);
+            sm_ev_handler (PROGRAM_MODE_ENTER);
             //setChars("POn-E");
             break;
         case BIT(SHIFT):
             keyMapAfterDebounce &= ~BIT(SHIFT);
-            event_receiver (SHIFT_KEY_PRESSED);
+            //event_receiver (SHIFT_KEY_PRESSED);
+            sm_ev_handler (SHIFT_KEY_PRESSED);
             //setChars("SHIFt");
             break;
         case BIT(INCREMENT):
             keyMapAfterDebounce &= ~BIT(INCREMENT);
-            event_receiver (INCREMENT_KEY_PRESSED);
+            //event_receiver (INCREMENT_KEY_PRESSED);
+            sm_ev_handler (INCREMENT_KEY_PRESSED);
             //setChars("InCrE");
             break;
         case BIT(ENTER):
             keyMapAfterDebounce &= ~BIT(ENTER);
-            event_receiver (ENTER_KEY_PRESSED);
+            //event_receiver (ENTER_KEY_PRESSED);
+            sm_ev_handler (ENTER_KEY_PRESSED);
+            
             //setChars("EntEr");
             break;
         case BIT(INDEX):
             keyMapAfterDebounce &= ~BIT(INDEX);
+            sm_ev_handler (INDEX_KEY_PRESSED);
+            
             //setChars("IndEX");
             break;            
         default:
